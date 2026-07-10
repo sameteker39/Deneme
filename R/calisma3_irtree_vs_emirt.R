@@ -28,7 +28,7 @@
 # #####################################################################
 
 # ===================== 0. KURULUM ===================================
-gerekli <- c("dplyr", "tidyr", "ggplot2", "mirt", "readr")
+gerekli <- c("dplyr", "tidyr", "ggplot2", "mirt", "readr", "mixtools")
 kurulu  <- rownames(installed.packages())
 eksik   <- setdiff(gerekli, kurulu)
 if (length(eksik)) install.packages(eksik, repos = "https://cloud.r-project.org")
@@ -47,7 +47,9 @@ cat("##### CALISMA 3 - IRTree vs EM-IRT #####\n")
 cat("Tarih:", format(Sys.time()), " | Cikti:", OUT_DIR, "\n\n")
 
 # --- Sabitler ---
-NA_TIME   <- 1e10          # gecersiz sure kodu
+# DIKKAT: verideki eksik-sure sentinel'i 9999999999'dur; "t < 1e10" bunu DISLAMAZ
+# (9999999999 < 1e10). Bu yuzden gecerli RT ust siniri 1e5 alinir (gercek RT < ~900 sn).
+MAX_TIME  <- 1e5           # gecerli yanit suresi ust siniri (sentinel haric)
 GECERLI   <- 1:4           # gecerli MC secenek
 NT_MINN   <- 30            # esik icin madde basi en az gozlem
 WINSOR_SD <- 2             # uc sure budama (ort + 2 SS)
@@ -80,7 +82,7 @@ for (it in items) { r <- zl(d[[it]])
 # Sure: ilk yanit suresi (_R), gecersizler -> NA (saniye)
 fat_df <- data.frame(IDSTUD = d$IDSTUD)
 for (it in items) { t <- zl(d[[paste0(it, "_R")]])
-  fat_df[[it]] <- ifelse(is.finite(t) & t > 0 & t < NA_TIME, t, NA_real_) }
+  fat_df[[it]] <- ifelse(is.finite(t) & t > 0 & t < MAX_TIME, t, NA_real_) }
 
 long <- acc_df |> tidyr::pivot_longer(-IDSTUD, names_to = "items", values_to = "acc") |>
   dplyr::left_join(
@@ -242,10 +244,103 @@ savefig(sac(item_par, "a_std", "a_em",   "Ayirt edicilik a - Standart", "a - EM-
 savefig(sac(theta,    "theta_em", "theta_tree", "theta - EM-IRT", "theta - IRTree(ACC)",
             "Sekil 4. Yetenek: EM-IRT vs IRTree"), "fig4_theta_em_tree.png")
 
+# ===================== 8b. DUYARLILIK (esik kurallari) =============
+# NT10 (budamali/budasiz), NT5, sabit 5 sn, MRTQ. Her kural icin RG orani,
+# gecerlik ve ACC dugumu ort. ayirt ediciligi + ANA (NT10) ile korelasyon.
+cat("== 8b. Duyarlilik analizi (esik kurallari) ==\n")
+
+# MRTQ: log-RT 2-bilesenli normal karisim; hizli-tahmin bileseni agirligi w ->
+# esik = exp( w-inci kuantil(log-RT) )  (Eker & Gelbal).
+mrtq_thr <- function(x, min_n = NT_MINN, maxrestarts = 80) {
+  x <- x[is.finite(x) & x > 0]; if (length(x) < min_n) return(NA_real_)
+  lx <- log(x); if (length(unique(lx)) < 2) return(NA_real_)
+  out <- tryCatch(mixtools::normalmixEM(lx, k = 2, maxrestarts = maxrestarts, verb = FALSE),
+                  error = function(e) NULL)
+  if (is.null(out)) return(NA_real_)
+  w <- out$lambda[which.min(out$mu)]
+  if (w < 0.03 || w > 0.97) return(NA_real_)
+  exp(stats::quantile(lx, probs = w, names = FALSE))
+}
+
+# Bir kurala gore uzun tabloya rg sutunu ekler
+apply_rule <- function(L, method = "NT", pct = .10, maxsec = 10, fixed = NULL, winsor = TRUE) {
+  L$fx <- if (winsor) ave(L$fat, L$items, FUN = function(x) winsor_top(x)) else L$fat
+  th <- L |> dplyr::filter(is.finite(fx), fx > 0) |> dplyr::group_by(items) |>
+    dplyr::summarise(thr = if (method == "MRTQ") mrtq_thr(fx)
+                           else if (!is.null(fixed)) fixed
+                           else nt_thr(fx, pct, maxsec), .groups = "drop")
+  L |> dplyr::select(-dplyr::any_of("thr")) |> dplyr::left_join(th, by = "items") |>
+    dplyr::mutate(rg = as.integer(!is.na(thr) & is.finite(fat) & fat > 0 & fat <= thr))
+}
+
+# Bir rg-sinifli uzun tablodan EM-IRT + IRTree kurup ozet doner
+fit_rule <- function(Lr) {
+  ew <- acc_wide
+  rgw <- Lr |> dplyr::select(IDSTUD, items, rg) |>
+    tidyr::pivot_wider(names_from = items, values_from = rg) |> as.data.frame()
+  rownames(rgw) <- rgw$IDSTUD; rgw <- rgw[rownames(acc_wide), items, drop = FALSE]
+  ew[which(rgw == 1, arr.ind = TRUE)] <- NA_integer_
+  nd <- Lr |> dplyr::filter(is.finite(fat), fat > 0) |>
+    dplyr::mutate(n1 = rg, n2 = ifelse(rg == 0, acc, NA_integer_))
+  a1 <- nd |> dplyr::select(IDSTUD, items, n1) |>
+    tidyr::pivot_wider(names_from = items, values_from = n1, names_glue = "{items}_n1")
+  a2 <- nd |> dplyr::select(IDSTUD, items, n2) |>
+    tidyr::pivot_wider(names_from = items, values_from = n2, names_glue = "{items}_n2")
+  iin <- items[items %in% unique(nd$items)]
+  ir <- as.data.frame(dplyr::left_join(a1, a2, by = "IDSTUD"))
+  rownames(ir) <- ir$IDSTUD; ir$IDSTUD <- NULL
+  ir <- ir[, c(paste0(iin, "_n1"), paste0(iin, "_n2")), drop = FALSE]
+  Jr <- length(iin)
+  sp <- mirt::mirt.model(sprintf("RG = 1-%d\n ACC = %d-%d\n COV = RG*ACC", Jr, Jr + 1, 2 * Jr))
+  fe <- mirt::mirt(ew, 1, itemtype = "2PL", verbose = FALSE)
+  ft <- mirt::mirt(ir, sp, itemtype = "2PL", method = "EM",
+                   technical = list(NCYCLES = 2000), verbose = FALSE)
+  pe <- mirt::coef(fe, simplify = TRUE, IRTpars = TRUE)$items
+  co <- mirt::coef(ft, simplify = TRUE)$items; ar <- grepl("_n2$", rownames(co))
+  eng2 <- Lr |> dplyr::filter(is.finite(fat), fat > 0, !is.na(acc))
+  list(a_em = pe[, "a"], b_em = pe[, "b"], item = rownames(pe),
+       theta_em = mirt::fscores(fe, method = "EAP")[, 1],
+       rg_rate = mean(Lr$rg[is.finite(Lr$fat) & Lr$fat > 0]),
+       acc_rg = mean(eng2$acc[eng2$rg == 1]), acc_sol = mean(eng2$acc[eng2$rg == 0]),
+       a_acc_tree = mean(co[ar, "a2"]),
+       rho = mirt::coef(ft, simplify = TRUE)$cov["ACC", "RG"] /
+             sqrt(mirt::coef(ft, simplify = TRUE)$cov["ACC","ACC"] *
+                  mirt::coef(ft, simplify = TRUE)$cov["RG","RG"]))
+}
+
+kurallar <- list(
+  "NT10 (budamali, ANA)" = list(method = "NT", pct = .10, maxsec = 10, winsor = TRUE),
+  "NT10 (budasiz)"       = list(method = "NT", pct = .10, maxsec = 10, winsor = FALSE),
+  "NT5 (budamali)"       = list(method = "NT", pct = .05, maxsec = 10, winsor = TRUE),
+  "Sabit 5 sn"           = list(method = "NT", fixed = 5, winsor = FALSE),
+  "MRTQ"                 = list(method = "MRTQ", winsor = TRUE))
+
+Lbase <- long |> dplyr::select(IDSTUD, items, acc, fat)
+main_fit <- NULL; rob <- list()
+for (nm in names(kurallar)) {
+  cat("  -", nm, "...\n")
+  args <- kurallar[[nm]]
+  Lr <- do.call(apply_rule, c(list(L = Lbase), args))
+  fr <- fit_rule(Lr)
+  if (is.null(main_fit)) main_fit <- fr
+  rob[[nm]] <- data.frame(
+    kural = nm, RG_orani = round(fr$rg_rate, 3),
+    RG_dogruluk = round(fr$acc_rg, 3), caba_dogruluk = round(fr$acc_sol, 3),
+    a_ort_EMIRT = round(mean(fr$a_em), 3), a_ort_IRTreeACC = round(fr$a_acc_tree, 3),
+    rho_RG_ACC = round(fr$rho, 3),
+    a_kor_ANA = round(cor(main_fit$a_em, fr$a_em, use = "complete.obs"), 3),
+    b_kor_ANA = round(cor(main_fit$b_em, fr$b_em, use = "complete.obs"), 3),
+    theta_kor_ANA = round(cor(main_fit$theta_em, fr$theta_em, use = "complete.obs"), 3))
+}
+rob_tab <- dplyr::bind_rows(rob)
+readr::write_csv(rob_tab, file.path(OUT_DIR, "T5_duyarlilik.csv"))
+cat("Duyarlilik tablosu:\n"); print(rob_tab); cat("\n")
+
 # ===================== 9. KAYDET + OZET ============================
 cat("== 9. Kaydediliyor ==\n")
 saveRDS(list(item_par = item_par, theta = theta, cmp = cmp_all, val = val,
-             thr = thr_tab, fits = list(std = fit_std, em = fit_em, tree = fit_tree)),
+             thr = thr_tab, robustness = rob_tab,
+             fits = list(std = fit_std, em = fit_em, tree = fit_tree)),
         file.path(OUT_DIR, "calisma3_TUM_SONUCLAR.rds"))
 
 cat("\n##### OZET #####\n")

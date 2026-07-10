@@ -29,7 +29,7 @@ OUT = os.path.join(ROOT, "outputs_python")
 os.makedirs(OUT, exist_ok=True)
 
 GECERLI = [1, 2, 3, 4]
-NA_TIME = 1e10
+MAX_TIME = 1e5  # gecerli RT ust siniri (sentinel 9999999999 haric)
 
 # ---- veri hazırlama ----
 d = list(pyreadr.read_r(DATA).values())[0]
@@ -42,7 +42,7 @@ for it in items:
     r = pd.to_numeric(d[it], errors="coerce")
     acc[it] = np.where(r.isin(GECERLI), (r == corr[it]).astype(float), np.nan)
     t = pd.to_numeric(d[it + "_R"], errors="coerce")
-    fat[it] = np.where(np.isfinite(t) & (t > 0) & (t < NA_TIME), t, np.nan)
+    fat[it] = np.where(np.isfinite(t) & (t > 0) & (t < MAX_TIME), t, np.nan)
 acc = pd.DataFrame(acc)
 fat = pd.DataFrame(fat)
 

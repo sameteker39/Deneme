@@ -91,16 +91,30 @@ doğrulanmış). `python/run_preliminary.py` üç modeli çalıştırıp `output
 altına karşılaştırma tablolarını yazar. **Bu sonuçlar ön/onay amaçlıdır; nihai
 analiz `mirt` betiğiyle yapılmalıdır.**
 
-Bu veride bulunan başlıca ön bulgular:
+> **Süre sentinel'i:** Eksik yanıt süresi verideki `_R` sütunlarında `9999999999`
+> ile kodlanmıştır. `t < 1e10` filtresi bunu **dışlamaz** (9999999999 < 1e10);
+> geçerli üst sınır `1e5` alınmıştır (gerçek RT < ~900 sn). Bu düzeltme yapılmazsa
+> NT ortalaması şişer ve eşik 10 sn'de tıkanır.
 
-- Ortalama ayırt edicilik: Standart **1.43** → EM-IRT **1.47** → IRTree-ACC **1.48**
+Bu veride bulunan başlıca ön bulgular (NT10, RG oranı ≈ %6.2):
+
+- Ortalama ayırt edicilik: Standart **1.430** → EM-IRT **1.449** → IRTree-ACC **1.456**
   (çabayı yok saymak ayırt ediciliği hafifçe zayıflatıyor).
 - **EM-IRT ≈ IRTree-ACC**: madde güçlüğü `b` için r = **1.00**, ayırt edicilik `a`
-  için r = **0.998** (özdeşlik ampirik olarak doğrulandı).
-- Standart → EM-IRT: `b` için RMSD = 0.24; en çok kayan zor madde **ME62341**
-  (b: 1.80 → 3.25) — şanslı hızlı tahminler çıkınca gerçek zorluk ortaya çıkıyor.
-- **IRTree gizil korelasyonu RG × ACC = −0.38**: hızlı tahmin eğilimi düşük
+  için r = **0.999** (özdeşlik ampirik olarak doğrulandı).
+- Standart → EM-IRT: `b` için RMSD = **0.06**, `a` için RMSD = **0.10** (ılımlı ama
+  tutarlı yönde); en çok kayan zor madde **ME62341** (b: 1.80 → 2.07).
+- **IRTree gizil korelasyonu RG × ACC ≈ −0.32**: hızlı tahmin eğilimi düşük
   matematik yeteneğiyle ilişkili (IRTree'nin EM-IRT üzerine kişi düzeyindeki katkısı).
+
+### Duyarlılık analizi (`python/run_robustness.py` → `outputs_python/T5_duyarlilik.csv`)
+
+Beş eşik kuralı: NT10 (budamalı/budasız), NT5, sabit 5 sn, **MRTQ** (log-RT 2-bileşenli
+karışım kuantili; Eker & Gelbal). RG oranı %3.3 (NT5) – %14.2 (MRTQ) aralığında değişir.
+**Madde ve yetenek parametreleri eşik seçimine karşı çok sağlamdır**: EM-IRT `a`/`b`/`θ`
+kestirimlerinin ANA (NT10) ile korelasyonu tüm kurallarda **≥ 0.99**. Eşiğe duyarlı tek
+parametre, RG–ACC gizil korelasyonudur (NT5'te −0.15, MRTQ'da −0.42) — beklenen biçimde,
+hızlı tahminin ne kadar yakalandığına bağlıdır.
 
 ## Kaynaklar
 

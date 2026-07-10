@@ -1,4 +1,4 @@
 karsilastirma,n,r,ort_fark,RMSD
-theta: Standart->EM-IRT,4925,0.968,-0.0,0.196
-theta: Standart->IRTree(ACC),4925,0.966,0.0,0.204
-theta: EM-IRT->IRTree(ACC),4925,0.982,0.0,0.145
+theta: Standart->EM-IRT,4925,0.985,0.0,0.136
+theta: Standart->IRTree(ACC),4925,0.98,-0.0,0.155
+theta: EM-IRT->IRTree(ACC),4925,0.991,-0.0,0.103
