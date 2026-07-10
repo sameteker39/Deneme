@@ -80,7 +80,7 @@ All models were estimated by marginal maximum likelihood with the expectation–
 
 ### 3.5 Comparison and analysis plan
 
-We compared the models on the parameters that enter operational use. For discrimination and difficulty (across all 43 items) and for ability (across all 4,925 students), we computed Pearson and Spearman correlations across models together with mean differences and the root mean squared difference (RMSD), which captures the typical magnitude of disagreement in the parameter's own metric. The disengagement dimension, available only from the IRTree, was summarized by its correlation with ability. The sensitivity analysis re-estimated the EM-IRT and IRTree models under each of the five threshold rules, reporting for every rule the rapid-guessing rate, the accuracy of flagged and unflagged responses, the mean discrimination of the accuracy node, the disengagement–ability correlation, and the correlation of each rule's item and ability estimates with those from the primary analysis.
+We compared the models on the parameters that enter operational use. For discrimination and difficulty (across all 43 items) and for ability (across the sample), we computed Pearson and Spearman correlations across models together with mean differences and the root mean squared difference (RMSD), which captures the typical magnitude of disagreement in the parameter's own metric. The disengagement dimension, available only from the IRTree, was summarized by its correlation with ability. The sensitivity analysis re-estimated the EM-IRT and IRTree models under each of the five threshold rules, reporting for every rule the rapid-guessing rate, the accuracy of flagged and unflagged responses, the mean discrimination of the accuracy node, the disengagement–ability correlation, and the correlation of each rule's item and ability estimates with those from the primary analysis.
 
 ## 4. Results
 
@@ -92,35 +92,35 @@ Under the primary NT10 rule, 6.2% of timed responses were flagged as rapid guess
 
 The central question is what accounting for rapid guessing does to the item parameters, and how much the two disengagement-aware paradigms differ in doing it. Table 1 reports the comparisons, and two results stand out. First, accounting for rapid guessing moved the item parameters in the expected direction but only modestly. Mean discrimination rose from 1.43 under the naïve 2PL to 1.45 under EM-IRT and 1.46 under the IRTree accuracy node—the attenuation caused by chance-level guesses is relieved once those guesses are removed, but the shift is small at this prevalence—while mean difficulty was similarly stable (−0.11, −0.13, and −0.11). Correlations between the naïve and effort-moderated item parameters were high (r = .99 for both parameters) and the typical disagreement small (RMSD = 0.10 for discrimination, 0.06 for difficulty). Yet aggregate stability masked movement for particular items: the hardest items, which attract proportionally more rapid guesses and on which lucky guesses most inflate the apparent proportion correct, tended to become harder once those guesses were discounted, and the item whose difficulty changed most rose from 1.80 to 2.07 logits.
 
-The second, more striking result concerns the two disengagement-aware models, which produced essentially the same item parameters: the correlation was 1.00 for difficulty and .999 for discrimination, with RMSDs of 0.02 and 0.03. This near-identity follows from the models' structure. Both condition the accuracy model on the same engaged responses, and at a prevalence of 6% the information the IRTree draws from modeling disengagement jointly does little to move the accuracy node's item parameters. The empirical convergence thus confirms, on operational data, the pattern simulation had led us to expect when rapid guessing is modest (Rios et al., 2024): for item calibration, filtering and modeling arrive at the same place.
+The second, more striking result concerns the two disengagement-aware models, which produced essentially the same item parameters: the correlation was 1.00 for difficulty and .998 for discrimination, with RMSDs of 0.03 and 0.04. This near-identity follows from the models' structure. Both condition the accuracy model on the same engaged responses, and at a prevalence of 6% the information the IRTree draws from modeling disengagement jointly does little to move the accuracy node's item parameters. The empirical convergence thus confirms, on operational data, the pattern simulation had led us to expect when rapid guessing is modest (Rios et al., 2024): for item calibration, filtering and modeling arrive at the same place.
 
 **Table 1.** *Cross-model comparison of item and ability parameters (primary NT10 analysis).*
 
 | Comparison | Parameter | r | Mean difference | RMSD |
 |---|---|---|---|---|
 | Standard → EM-IRT | Difficulty (b) | .998 | −0.017 | 0.062 |
-| Standard → IRTree (ACC) | Difficulty (b) | .998 | −0.001 | 0.065 |
-| EM-IRT → IRTree (ACC) | Difficulty (b) | 1.000 | 0.016 | 0.020 |
+| Standard → IRTree (ACC) | Difficulty (b) | .998 | 0.001 | 0.070 |
+| EM-IRT → IRTree (ACC) | Difficulty (b) | 1.000 | 0.018 | 0.025 |
 | Standard → EM-IRT | Discrimination (a) | .991 | 0.019 | 0.096 |
-| Standard → IRTree (ACC) | Discrimination (a) | .992 | 0.026 | 0.090 |
-| EM-IRT → IRTree (ACC) | Discrimination (a) | .999 | 0.007 | 0.032 |
-| Standard → EM-IRT | Ability (θ) | .985 | 0.000 | 0.136 |
-| Standard → IRTree (ACC) | Ability (θ) | .980 | 0.000 | 0.155 |
-| EM-IRT → IRTree (ACC) | Ability (θ) | .991 | 0.000 | 0.103 |
+| Standard → IRTree (ACC) | Discrimination (a) | .992 | 0.027 | 0.090 |
+| EM-IRT → IRTree (ACC) | Discrimination (a) | .998 | 0.008 | 0.037 |
+| Standard → EM-IRT | Ability (θ) | .987 | −0.002 | 0.125 |
+| Standard → IRTree (ACC) | Ability (θ) | .980 | 0.002 | 0.156 |
+| EM-IRT → IRTree (ACC) | Ability (θ) | .994 | 0.007 | 0.082 |
 
-*Note.* ACC = accuracy node of the IRTree. RMSD = root mean squared difference. Item parameters compared across 43 items; ability across 4,925 students.
+*Note.* ACC = accuracy node of the IRTree. RMSD = root mean squared difference. Item parameters compared across 43 items; ability across the students estimable under each model pair (n = 4,843–4,885).
 
 ### 4.3 Ability estimates
 
-The picture for ability mirrors that for the items. Estimates from the three models were strongly correlated (.985 between the naïve and EM-IRT models and .991 between EM-IRT and the IRTree), yet the agreement was not perfect, and the disagreement was concentrated where theory says it should be. Because rapid guessing is unevenly distributed across students, correcting for it leaves most estimates untouched and adjusts those of the students who rapid-guessed. The mean difference between models was zero, as the common metric requires, but the RMSD of 0.10 to 0.16 logits reflects real movement for the disengaged minority—small for a program reporting population distributions and group means, but not negligible for inferences about the individual students for whom the disengagement-aware models were designed (Leventhal et al., 2023).
+The picture for ability mirrors that for the items. Estimates from the three models were strongly correlated (.987 between the naïve and EM-IRT models and .994 between EM-IRT and the IRTree), yet the agreement was not perfect, and the disagreement was concentrated where theory says it should be. Because rapid guessing is unevenly distributed across students, correcting for it leaves most estimates untouched and adjusts those of the students who rapid-guessed. The mean difference between models was near zero, as the common metric requires, but the RMSD of 0.08 to 0.16 logits reflects real movement for the disengaged minority—small for a program reporting population distributions and group means, but not negligible for inferences about the individual students for whom the disengagement-aware models were designed (Leventhal et al., 2023).
 
 ### 4.4 The disengagement dimension
 
-If the two paradigms agree so closely on item and ability parameters, what does the IRTree offer that EM-IRT does not? The answer lies in the parameter they do not share. The IRTree estimated a latent disengagement propensity whose correlation with mathematics ability was −0.32: students more prone to rapid guessing tended to be lower in ability—the relationship EM-IRT assumes away and that, when strong, is precisely the condition under which effort-moderated filtering begins to bias its own estimates (Rios et al., 2021b). Here the relationship is moderate rather than strong, consistent with the paradigms' close agreement on the shared parameters: the ignorability assumption is violated, but not enough at this prevalence to drive the models apart. The disengagement dimension is therefore best understood not as a competitor to the ability estimate but as an additional, substantively meaningful trait, a description of who withdraws and how that withdrawal relates to proficiency, that filtering discards by construction.
+If the two paradigms agree so closely on item and ability parameters, what does the IRTree offer that EM-IRT does not? The answer lies in the parameter they do not share. The IRTree estimated a latent disengagement propensity whose correlation with mathematics ability was −0.33: students more prone to rapid guessing tended to be lower in ability—the relationship EM-IRT assumes away and that, when strong, is precisely the condition under which effort-moderated filtering begins to bias its own estimates (Rios et al., 2021b). Here the relationship is moderate rather than strong, consistent with the paradigms' close agreement on the shared parameters: the ignorability assumption is violated, but not enough at this prevalence to drive the models apart. The disengagement dimension is therefore best understood not as a competitor to the ability estimate but as an additional, substantively meaningful trait, a description of who withdraws and how that withdrawal relates to proficiency, that filtering discards by construction.
 
 ### 4.5 Sensitivity to the threshold rule
 
-The robustness analysis asked whether these conclusions depend on how rapid guessing was operationalized. They do not, with one instructive exception. Across the five rules the rapid-guessing rate varied fourfold, from 3.3% under the strict NT5 rule to 14.2% under the liberal MRTQ rule (Table 2)—the expected consequence of moving from conservative to liberal cutoffs, echoing the meta-analytic finding that procedures flag materially different proportions of responses (Rios et al., 2021a). Yet the item and ability parameters were almost entirely insensitive to this variation: across every rule, the EM-IRT discrimination, difficulty, and ability estimates correlated with the primary analysis at .99 or above. The one parameter that responded was the disengagement–ability correlation, which strengthened from −0.15 under NT5 to −0.42 under MRTQ. This is not a defect but a signature: how strongly disengagement relates to ability depends on how much disengaged behavior a rule captures, so a liberal rule naturally recovers a stronger relationship.
+The robustness analysis asked whether these conclusions depend on how rapid guessing was operationalized. They do not, with one instructive exception. Across the five rules the rapid-guessing rate varied fourfold, from 3.3% under the strict NT5 rule to 14.1% under the liberal MRTQ rule (Table 2)—the expected consequence of moving from conservative to liberal cutoffs, echoing the meta-analytic finding that procedures flag materially different proportions of responses (Rios et al., 2021a). Yet the item and ability parameters were almost entirely insensitive to this variation: across every rule, the EM-IRT discrimination, difficulty, and ability estimates correlated with the primary analysis at .99 or above. The one parameter that responded was the disengagement–ability correlation, which strengthened from −0.16 under NT5 to −0.43 under MRTQ. This is not a defect but a signature: how strongly disengagement relates to ability depends on how much disengaged behavior a rule captures, so a liberal rule naturally recovers a stronger relationship.
 
 The practical message is twofold. For the parameters that enter reporting, the threshold rule is close to immaterial—an empirical extension, to the model-based paradigms, of the conclusion that accounting for rapid guessing matters more than the rule chosen (Rios et al., 2021a). For the disengagement dimension that gives the IRTree its distinctive value, the rule is consequential, and analysts who interpret that dimension should treat their threshold choice as a substantive decision rather than a technical default.
 
@@ -128,11 +128,11 @@ The practical message is twofold. For the parameters that enter reporting, the t
 
 | Threshold rule | RG rate | Accuracy \| RG | Accuracy \| solution | Mean *a* (EM-IRT) | Disengagement–ability *r* | *a* corr. with NT10 | θ corr. with NT10 |
 |---|---|---|---|---|---|---|---|
-| NT10 (winsorized; primary) | .062 | .42 | .54 | 1.45 | −0.32 | 1.00 | 1.00 |
-| NT10 (unwinsorized) | .064 | .42 | .54 | 1.46 | −0.33 | .999 | .999 |
-| NT5 (winsorized) | .033 | .48 | .54 | 1.44 | −0.15 | .996 | .993 |
+| NT10 (winsorized; primary) | .062 | .42 | .54 | 1.45 | −0.33 | 1.00 | 1.00 |
+| NT10 (unwinsorized) | .064 | .42 | .54 | 1.46 | −0.34 | .999 | .999 |
+| NT5 (winsorized) | .033 | .48 | .54 | 1.44 | −0.16 | .996 | .994 |
 | Fixed 5 s | .071 | .42 | .54 | 1.46 | −0.34 | .998 | .996 |
-| MRTQ (mixture) | .142 | .38 | .56 | 1.48 | −0.42 | .992 | .976 |
+| MRTQ (mixture) | .141 | .38 | .56 | 1.48 | −0.43 | .992 | .978 |
 
 *Note.* RG = rapid guessing. Correlations in the final two columns are between each rule's EM-IRT estimates and those of the primary NT10 analysis.
 
