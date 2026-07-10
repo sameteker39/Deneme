@@ -82,13 +82,18 @@ stopifnot(length(items) == length(unique(items)))
 stopifnot(all(items %in% names(d)), all(paste0(items, "_R") %in% names(d)))
 
 # Puanlama: yalniz 1-4 gecerli (6=ulasilamadi, 9=atlandi -> NA)
-zl <- function(x) suppressWarnings(as.numeric(x))
-acc_df <- data.frame(IDSTUD = d$IDSTUD)
+# Veri SPSS etiketli (haven_labelled) gelebilir; ham sayisal kodu al (etiketi soy).
+zl <- function(x) {
+  if (inherits(x, "haven_labelled") || inherits(x, "labelled")) x <- unclass(x)
+  suppressWarnings(as.numeric(x))
+}
+id_all <- as.character(zl(d$IDSTUD))            # ogrenci kimligi (etiketsiz, karakter)
+acc_df <- data.frame(IDSTUD = id_all, stringsAsFactors = FALSE)
 for (it in items) { r <- zl(d[[it]])
   acc_df[[it]] <- ifelse(r %in% GECERLI, as.integer(r == corr[[it]]), NA_integer_) }
 
 # Sure: ilk yanit suresi (_R), gecersizler -> NA (saniye)
-fat_df <- data.frame(IDSTUD = d$IDSTUD)
+fat_df <- data.frame(IDSTUD = id_all, stringsAsFactors = FALSE)
 for (it in items) { t <- zl(d[[paste0(it, "_R")]])
   fat_df[[it]] <- ifelse(is.finite(t) & t > 0 & t < MAX_TIME, t, NA_real_) }
 
@@ -97,7 +102,7 @@ long <- acc_df |> tidyr::pivot_longer(-IDSTUD, names_to = "items", values_to = "
     tidyr::pivot_longer(fat_df, -IDSTUD, names_to = "items", values_to = "fat"),
     by = c("IDSTUD", "items"))
 cat(sprintf("Ogrenci: %d | Madde: %d | Toplam gozlem: %d\n\n",
-            length(unique(d$IDSTUD)), length(items), nrow(long)))
+            length(unique(id_all)), length(items), nrow(long)))
 
 # ===================== 2. NT10 + HIZLI TAHMIN SINIFLAMASI ===========
 cat("== 2. NT10 (2-SS budamali) esigi ve hizli tahmin (RG) sinifi ==\n")
