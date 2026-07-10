@@ -63,11 +63,19 @@ savefig <- function(p, f, w = 6.5, h = 5)
 
 # ===================== 1. VERI HAZIRLAMA ============================
 cat("== 1. Veri okunuyor ve puanlaniyor ==\n")
-e <- new.env(); load(file.path(IN_DIR, "data", "CALISMA2.Rdata"), envir = e)
+# Dosyayi hem <klasor>/data/ altinda hem de dogrudan calisma klasorunde arar.
+bul <- function(ad) {
+  aday <- c(file.path(IN_DIR, "data", ad), file.path(IN_DIR, ad))
+  var  <- aday[file.exists(aday)]
+  if (!length(var)) stop(sprintf(
+    "'%s' bulunamadi. Su konumlara bakildi:\n  %s\nDosyayi bunlardan birine koyun.",
+    ad, paste(aday, collapse = "\n  ")))
+  var[1]
+}
+e <- new.env(); load(bul("CALISMA2.Rdata"), envir = e)
 d <- get(ls(e)[1], envir = e)
 
-keys  <- readr::read_csv(file.path(IN_DIR, "data", "recovered_keys.csv"),
-                         show_col_types = FALSE)
+keys  <- readr::read_csv(bul("recovered_keys.csv"), show_col_types = FALSE)
 items <- keys$madde_id
 corr  <- setNames(keys$dogru_kod, keys$madde_id)
 stopifnot(length(items) == length(unique(items)))
