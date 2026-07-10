@@ -1,0 +1,13 @@
+# Ham veri (paylaşılamaz / büyük) — data/ altına elle konur
+data/*.Rdata
+data/*.RData
+data/*.rds
+data/*.sav
+data/*.xlsx
+
+# Analiz çıktıları
+outputs/
+*.Rout
+.Rhistory
+.RData
+.Rproj.user/
