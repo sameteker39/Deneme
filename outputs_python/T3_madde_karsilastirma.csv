@@ -1,0 +1,7 @@
+karsilastirma,n,r,ort_fark,RMSD
+b: Standart->EM-IRT,43,0.975,-0.027,0.242
+b: Standart->IRTree(ACC),43,0.978,0.0,0.219
+b: EM-IRT->IRTree(ACC),43,1.0,0.027,0.038
+a: Standart->EM-IRT,43,0.981,0.039,0.169
+a: Standart->IRTree(ACC),43,0.983,0.054,0.156
+a: EM-IRT->IRTree(ACC),43,0.998,0.015,0.051

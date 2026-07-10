@@ -83,6 +83,25 @@ Veri hazırlama + NT10 + sınıflama adımları gerçek veride doğrulanmıştı
 - Öğrenci başı medyan 6 madde (kitapçık/matris tasarımı): madde parametreleri
   sağlam (madde başı ~700 kişi); yetenek `theta` daha az kesin (sınırlılık).
 
+## Ön sonuçlar (Python, `mirt` olmadan)
+
+`mirt` kurulamayan ortamlar için `python/` altında bağımsız bir MML-EM kestirici
+vardır (`irt_est.py`; 2PL ve iki-boyutlu IRTree, eksik veri destekli, simülasyonla
+doğrulanmış). `python/run_preliminary.py` üç modeli çalıştırıp `outputs_python/`
+altına karşılaştırma tablolarını yazar. **Bu sonuçlar ön/onay amaçlıdır; nihai
+analiz `mirt` betiğiyle yapılmalıdır.**
+
+Bu veride bulunan başlıca ön bulgular:
+
+- Ortalama ayırt edicilik: Standart **1.43** → EM-IRT **1.47** → IRTree-ACC **1.48**
+  (çabayı yok saymak ayırt ediciliği hafifçe zayıflatıyor).
+- **EM-IRT ≈ IRTree-ACC**: madde güçlüğü `b` için r = **1.00**, ayırt edicilik `a`
+  için r = **0.998** (özdeşlik ampirik olarak doğrulandı).
+- Standart → EM-IRT: `b` için RMSD = 0.24; en çok kayan zor madde **ME62341**
+  (b: 1.80 → 3.25) — şanslı hızlı tahminler çıkınca gerçek zorluk ortaya çıkıyor.
+- **IRTree gizil korelasyonu RG × ACC = −0.38**: hızlı tahmin eğilimi düşük
+  matematik yeteneğiyle ilişkili (IRTree'nin EM-IRT üzerine kişi düzeyindeki katkısı).
+
 ## Kaynaklar
 
 - Wise, S. L., & DeMars, C. E. (2006). *An application of item response time: The
