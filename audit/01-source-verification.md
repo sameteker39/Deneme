@@ -181,16 +181,30 @@ Ayrıca DOI'siz kitap künyeleri olarak sorunsuz: Glaser & Strauss (1967) · Mac
 Kaynak künyelerinden ayrı olarak, makalenin TYMM'nin **içeriği** hakkında ileri sürdüğü iddialar da denetlendi. Üçü yanlış:
 
 ### F1. "18 temel değer" (§1.3)
-**Yanlış.** TYMM'nin Erdem-Değer-Eylem Çerçevesi **20 değer** tanımlar:
-- **Çatı değerler (3):** adalet, saygı, sorumluluk
-- **Kişisel hayat (6):** tasarruf, sabır, mahremiyet, mütevazılık, sağlıklı yaşam, çalışkanlık
-- **Aile ve sosyal çevre (7):** sevgi, dostluk, özgürlük, dürüstlük, vatanseverlik, yardımseverlik, aile bütünlüğü
-- **Fiziksel çevre (4):** temizlik, duyarlılık, estetik, merhamet
+**Yanlış.** Birincil metinle doğrulandı: TYMM'nin Erdem-Değer-Eylem Çerçevesi **20 değer** tanımlar (EK-12'de D1–D20 olarak kodlanmıştır):
+- **Çatı değerler (3):** saygı, sorumluluk, adalet
+- **Huzurlu İnsan (6):** çalışkanlık, mahremiyet, mütevazılık, sabır, sağlıklı yaşam, tasarruf
+- **Huzurlu Aile ve Toplum (7):** aile bütünlüğü, dostluk, dürüstlük, özgürlük, sevgi, vatanseverlik, yardımseverlik
+- **Yaşanabilir Çevre (4):** duyarlılık, estetik, merhamet, temizlik
+
+Küme adlarının kendisi de analitik olarak önemlidir ve makalede kullanılmalıdır: modelin beyan ettiği nihai hedef *"'Huzurlu Aile ve Toplum' ile 'Yaşanabilir Çevrede Huzurlu İnsan'a ulaşmak"*tır. Değerler bireysel erdem listesi değil, bir toplum tasavvuruna doğru sıralanmış bir mimaridir.
 
 ### F2. Tablo 1 ve §4.1'deki değer örnekleri
 Makale TYMM'de "sabır, **iffet**, merhamet, **sadakat**" terimlerinin "sık geçtiğini", ayrıca "**hikmet**"in örtük dinî gönderme olarak yer aldığını söylüyor.
 
-Resmî değer listesine göre: **sabır** ✓ ve **merhamet** ✓ gerçekten var. Ancak **iffet yerine "mahremiyet"** kullanılıyor ve **"sadakat" listede hiç yok**. "Hikmet" de değerler çerçevesinin bir öğesi değil. Yani Tablo 1'in TYMM sütunu ve §4.1'in kanıt cümlesi, belgede karşılığı olmayan terimlere dayanıyor.
+Birincil metin (Ortak Metin 2025) elde edildikten sonra bu iddia madde madde denetlendi. Sonuç, ilk taslak denetimimde yazdığımdan daha ayrıntılı:
+
+| Terim | Durum |
+|---|---|
+| **sabır** | ✅ 20 değerden biri (D12) |
+| **merhamet** | ✅ 20 değerden biri (D9), ayrıca "Merhametli" profil özelliği |
+| **iffet** | ❌ Metinde geçmiyor. Model bu alanda **"mahremiyet"** (D8) terimini kullanıyor. |
+| **sadakat** | ⚠️ Bağımsız bir değer **değil**, ancak D15 (Sevgi) altında **"D15.3. Sadakatli olmak"** eylem kümesi olarak **geçiyor**. |
+| **hikmet** | ⚠️ Değerler çerçevesinin öğesi **değil**, ancak "Öğretim Programlarının Temel Yaklaşımı" bölümünde medeniyet mirasını tanımlarken **geçiyor**: *"Adalet, hikmet, merhamet, iyilik, doğruluk, çalışkanlık, faydalı olmak, güzellik gibi değerler üzerinde yükselen bir medeniyet mirasına sahip olan milletimiz…"* |
+
+**Kendi denetimimde düzeltme:** İlk turda "sadakat listede hiç yok" ve "hikmet çerçevenin öğesi değil" derken fazla kesin konuşmuştum. Her iki terim de metinde geçiyor — ama makalenin iddia ettiği yerde değil. Doğru formülasyon şudur: makale bu terimleri **20 değerlik çerçevenin öğeleriymiş gibi** sunuyor; oysa sadakat bir eylem kümesi, hikmet ise gerekçe bölümünde geçen bir medeniyet göndermesidir. İffet ise hiç yoktur.
+
+Bu, hakem karşısında da tam olarak böyle ifade edilmelidir: "metinde yok" demek yanlış olur, "çerçevenin öğesi olarak sunulması yanlış" demek doğrudur.
 
 ### F3. "aile, millet ve ümmete karşı sorumluluk" (§4.2)
 **Belgede dayanağı yok.** TYMM'nin değer çerçevesi "aile bütünlüğü" ve "vatanseverlik" terimlerini kullanır; "ümmet" kavramı öğrenci profili çerçevesinde geçmez. Bu, hem olgusal olarak yanlış hem de politik olarak yüklü bir atıftır; hakem sürecinde metnin tarafsızlığına dair ciddi itiraza yol açar. Çıkarılmalı.

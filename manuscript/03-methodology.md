@@ -16,14 +16,14 @@ The corpus consists of four documents, listed in Table 1. All are official publi
 
 | # | Document | Issuing body | Year | Language | Role |
 |---|---|---|---|---|---|
-| D1 | *Öğrenci Profili: Yetkin ve Erdemli İnsan* | MEB | 2024 | Turkish | Core text |
-| D2 | *Öğretim Programları Ortak Metni* (relevant sections) | MEB | 2024 | Turkish | Contextual text |
+| D1 | *Öğretim Programları Ortak Metni*, "Öğrenci Profili: Yetkin ve Erdemli İnsan" (pp. 5–11) | MEB | 2025 | Turkish | Core text |
+| D2 | *Öğretim Programları Ortak Metni*, Appendix 12, Erdem-Değer-Eylem tables (pp. 131–147) | MEB | 2025 | Turkish | Contextual text |
 | D3 | *IB learner profile* | IBO | 2017 | English | Core text |
 | D4 | *What is an IB education?* | IBO | 2017 | English | Contextual text |
 
 D1 and D3 are the core texts and supply the coded units. D2 and D4 are contextual: they were read in full to establish how each core text is positioned within its wider curriculum architecture, and they are cited where that positioning bears on interpretation, but they were not themselves coded.
 
-Two boundary decisions require statement. First, TYMM has been revised since its initial promulgation; this study analyses the version approved by the Board of Education (Talim ve Terbiye Kurulu) on 23 May 2024 (decision no. 20) and brought into force on 9 September 2024. Second, the IB profile has been through several revisions since 1997; this study analyses the 2017 version, which is the current form and the one in which the descriptors are written in the first person plural. Where the 2017 wording departs from earlier versions in ways relevant to the analysis, that shift is treated as evidence rather than noise.
+Two boundary decisions require statement. First, TYMM was approved by the Board of Education (Talim ve Terbiye Kurulu) on 23 May 2024 (decision no. 20) and came into force on 9 September 2024, and the Ortak Metin has been issued in more than one edition since; this study analyses the **2025** edition, and page references are to that edition. Second, the IB profile has been through several revisions since 1997; this study analyses the 2017 version, which is the current form and the one in which the descriptors are written in the first person plural. Where the 2017 wording departs from earlier versions in ways relevant to the analysis, that shift is treated as evidence rather than noise.
 
 ## 3.3 Unit of analysis
 
