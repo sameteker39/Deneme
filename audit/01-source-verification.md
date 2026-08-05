@@ -92,6 +92,11 @@ Ayrıca içerik hatası: Makale boyunca "curriculum as complicated conversation"
 
 Yani kavram doğru, kitap yanlış. Bu, makalenin kuramsal çerçevesinde 4 ayrı yerde tekrarlanıyor (§1.2, §2.3, §5.3 ve §2 girişi).
 
+**Doğru künye doğrulandı:**
+> Pinar, W. F. (2019). *What is curriculum theory?* (3rd ed.). Routledge. https://doi.org/10.4324/9781315625683
+
+(Scite kaydı: Routledge, 08.05.2019, açık erişim yeşil, CC-BY-SA. Önceki baskı: 2012, DOI 10.4324/9780203836033.)
+
 ### B4. Hayden, M., & Thompson, J. (2013)
 Makalede iki farklı biçimde, iki farklı başlıkla verilmiş (kaynakça tekrarından ötürü):
 > *International schools and curriculum. Oxford Review of Education, 39(6), 702–716.*

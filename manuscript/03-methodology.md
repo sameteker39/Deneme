@@ -2,7 +2,7 @@
 
 ## 3.1 Design and rationale
 
-This is a qualitative comparative document analysis of two curriculum policy texts: the learner profile of the Türkiye Yüzyılı Maarif Modeli (TYMM) and the International Baccalaureate (IB) learner profile. Document analysis is appropriate here because learner profiles are not descriptions of practice but prescriptive statements about what a graduate ought to be. They are, in Prior's (2003) terms, documents that *act* — they authorise some conceptions of the educated person and foreclose others. The object of inquiry is therefore the text itself, not its implementation.
+This is a qualitative comparative document analysis of two curriculum policy texts: the learner profile of the Türkiye Yüzyılı Maarif Modeli (TYMM) and the International Baccalaureate (IB) learner profile. Document analysis is appropriate here because learner profiles are not descriptions of practice but prescriptive statements about what a graduate ought to be. They are, in Prior's (2003) terms, documents that *act*: they authorise some conceptions of the educated person and foreclose others. The object of inquiry is therefore the text itself, not its implementation.
 
 The comparison is deliberately asymmetrical in scale. TYMM is a national curriculum framework governing a single state system; the IB profile is a transnational framework applied across roughly 5,900 schools in more than 160 countries. Rather than treating this asymmetry as a threat to comparability, the study follows Bereday's (1964) juxtaposition logic and Manzon's (2011) argument that units of comparison in comparative education are constructed rather than found. What makes the two texts comparable is not their institutional scope but their shared genre and their shared structural form: each defines the ideal learner through exactly ten named characteristics, each characteristic elaborated in a short descriptive passage. That structural symmetry, rather than any assumed equivalence of scale, is the tertium comparationis.
 
@@ -27,7 +27,7 @@ Two boundary decisions require statement. First, TYMM was approved by the Board 
 
 ## 3.3 Unit of analysis
 
-The coded unit is the *profile characteristic*: a named attribute together with its descriptive passage. This yields twenty units — ten from TYMM (ahlaklı, bilge, cesaretli, estetik, iradeli, merhametli, sağlıklı, sorgulayıcı, üretken, vatansever) and ten from the IB (inquirers, knowledgeable, thinkers, communicators, principled, open-minded, caring, risk-takers, balanced, reflective).
+The coded unit is the *profile characteristic*: a named attribute together with its descriptive passage. This yields twenty units: ten from TYMM (ahlaklı, bilge, cesaretli, estetik, iradeli, merhametli, sağlıklı, sorgulayıcı, üretken, vatansever) and ten from the IB (inquirers, knowledgeable, thinkers, communicators, principled, open-minded, caring, risk-takers, balanced, reflective).
 
 Coding at this level, rather than at the level of the sentence or the whole document, keeps the analysis anchored to the texts' own organising categories. It also makes the comparison auditable: every claim in the findings can be traced to a specific characteristic and a specific span of text within it.
 
@@ -35,13 +35,13 @@ Coding at this level, rather than at the level of the sentence or the whole docu
 
 Analysis proceeded in three cycles.
 
-**First cycle: directed coding.** A provisional codebook was built from two sources. The first is TYMM's own conceptual vocabulary, which organises the profile around four constructs: ontological wholeness (*ontolojik bütünlük*) in its account of the person, epistemological wholeness (*epistemolojik bütünlük*) in its account of knowledge, temporal wholeness (*zamansal bütünlük*) in its account of the educational process, and axiological maturity (*aksiyolojik olgunluk*) in its account of values. Using a framework the Turkish text supplies about itself, rather than one imported wholesale from Anglophone curriculum theory, guards against reading TYMM only as a deviation from a Western norm — a failure mode that Takayama, Sriprakash and Connell (2017) identify as endemic in comparative education. The second source is Biesta's (2010) tripartite account of educational purpose — qualification, socialisation, subjectification — which supplies a vocabulary neutral between the two systems and applicable to both.
+**First cycle: directed coding.** A provisional codebook was built from two sources. The first is TYMM's own conceptual vocabulary, which organises the profile around four constructs: ontological wholeness (*ontolojik bütünlük*) in its account of the person, epistemological wholeness (*epistemolojik bütünlük*) in its account of knowledge, temporal wholeness (*zamansal bütünlük*) in its account of the educational process, and axiological maturity (*aksiyolojik olgunluk*) in its account of values. Using a framework the Turkish text supplies about itself, rather than one imported wholesale from Anglophone curriculum theory, guards against reading TYMM only as a deviation from a Western norm, a failure mode that Takayama, Sriprakash and Connell (2017) identify as endemic in comparative education. The second source is Biesta's (2010) tripartite account of educational purpose (qualification, socialisation, subjectification), which supplies a vocabulary neutral between the two systems and applicable to both.
 
 Applying a Turkish-derived framework to an English text and a general framework to both is itself an analytic decision with consequences. It is reported as such rather than presented as neutral procedure.
 
 **Second cycle: inductive coding.** Each unit was re-read for content the directed codes did not capture. Codes emerging here included the grammatical person of the descriptors, the presence or absence of a named collective to which the learner is answerable, the temporal orientation of each characteristic, and the modality of the verbs used (what the learner *is*, *does*, *becomes*, or *is expected to*). Emergent codes were consolidated through constant comparison (Charmaz, 2014) until no new categories appeared across two successive passes.
 
-**Third cycle: cross-case matrix.** The twenty units were arrayed in a matrix (characteristic × code) and read across both directions — down each column to establish how a code distributes within a profile, across each row to establish where the two profiles converge, diverge, or have no counterpart. Cells with no counterpart were treated as findings in their own right: what a profile declines to name is as informative as what it names.
+**Third cycle: cross-case matrix.** The twenty units were arrayed in a matrix (characteristic × code) and read across both directions: down each column to establish how a code distributes within a profile, across each row to establish where the two profiles converge, diverge, or have no counterpart. Cells with no counterpart were treated as findings in their own right: what a profile declines to name is as informative as what it names.
 
 Only after the matrix was complete was the interpretive layer added, drawing on Fairclough's (2003) treatment of texts as sites where social imaginaries are made explicit, to ask what conception of the social order each profile presupposes.
 
@@ -67,7 +67,7 @@ Rather than borrowing validity language from quantitative design, the study addr
 
 *Confirmability.* Every claim in the findings is tied to a specific characteristic and quoted span. Where an interpretation goes beyond what the text states, this is marked in the prose rather than left for the reader to detect.
 
-*Transferability.* The findings are not offered as generalisable to other national frameworks. What may transfer is the analytic move — using a framework's own conceptual vocabulary as the first coding lens — which is available to anyone comparing a national curriculum with a transnational one.
+*Transferability.* The findings are not offered as generalisable to other national frameworks. What may transfer is the analytic move, using a framework's own conceptual vocabulary as the first coding lens, which is available to anyone comparing a national curriculum with a transnational one.
 
 ## 3.7 Positionality
 
@@ -83,7 +83,7 @@ The study analyses intended curriculum only. It has nothing to say about how eit
 
 The two profiles are also unequal in the amount of surrounding text available. TYMM's profile sits within a large and recently issued national framework; the IB profile has accumulated three decades of institutional commentary. Holding the analysis to the core texts controls for this but also means the IB profile is analysed with less of its interpretive apparatus than a specialist in IB documentation would bring.
 
-Finally, the ten-by-ten structural symmetry that makes the comparison tractable is a property of the texts' presentation, not evidence that the units are functionally equivalent. Where a TYMM characteristic and an IB attribute are set alongside one another, the finding is that the texts place them in comparable structural positions — not that they do the same work.
+Finally, the ten-by-ten structural symmetry that makes the comparison tractable is a property of the texts' presentation, not evidence that the units are functionally equivalent. Where a TYMM characteristic and an IB attribute are set alongside one another, the finding is that the texts place them in comparable structural positions, not that they do the same work.
 
 ---
 
