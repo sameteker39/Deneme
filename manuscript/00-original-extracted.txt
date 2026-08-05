@@ -1,0 +1,296 @@
+Ulusal ve Küresel Eğitim Vizyonları: Türkiye Yüzyılı Maarif Modeli ve IB Öğrenci Profillerinin Karşılaştırması
+Abstract
+In an era of intensifying globalization and national identity reassertion, the construction of student profiles has emerged as a critical space where educational ideologies, cultural values, and policy agendas intersect. This study presents a comparative analysis of the Türkiye Yüzyılı Maarif Modeli (TYMM) and the International Baccalaureate (IB) learner profiles, focusing on their philosophical foundations, value orientations, and conceptualizations of the ideal learner. Utilizing a qualitative document analysis methodology, the study examines the official curriculum texts of both frameworks through thematic coding and interpretive discourse analysis.
+Findings reveal that the TYMM profile constructs the learner as a "yetkin ve erdemli insan" (competent and virtuous human being), grounded in virtue ethics, national identity, and culturally embedded moral values. In contrast, the IB learner profile emphasizes individual agency, global-mindedness, and secular humanist ethics, positioning the student as a reflective and autonomous global citizen. Despite these contrasts, both profiles share a holistic vision of education that seeks to integrate ethical formation with intellectual development.
+The study contributes to comparative curriculum theory by revealing how learner profiles serve as normative instruments of cultural reproduction and policy-making. It calls for a reimagining of learner frameworks that transcend binary oppositions between the global and the local, proposing hybrid models that are philosophically pluralistic, culturally responsive, and pedagogically coherent. Implications for curriculum design, policy, and future research are discussed in light of global-local tensions and the evolving role of values in education.
+1. Introduction
+1.1. Rethinking Student Profiles in the Age of Global Education Reform
+In the 21st century, education systems across the globe are undergoing paradigmatic transformations, seeking not only to adapt to the needs of a rapidly changing world but also to redefine the ultimate purpose of schooling. Central to this transformation is the reconceptualization of the student profile — the vision of the ideal graduate who is not merely academically capable but also morally grounded, socially responsible, and globally competent. While global curricula such as the International Baccalaureate (IB) have long articulated such a vision through their IB Learner Profile, emerging national models like Turkey’s Türkiye Yüzyılı Maarif Modeli present novel frameworks that assert both local authenticity and global resonance.
+The Türkiye Yüzyılı Maarif Modeli (TYMM), published by the Ministry of National Education in 2023, aims to define a “yetkin ve erdemli insan” (competent and virtuous human being) as the ideal learner, deeply embedded within the cultural, spiritual, and historical identity of the Turkish nation, while simultaneously addressing universal educational values. In contrast, the IB Learner Profile — as elaborated in its most recent guide (International Baccalaureate Organization [IBO], 2017) — describes learners as inquirers, knowledgeable, thinkers, communicators, principled, open-minded, caring, risk-takers, balanced, and reflective. These profiles represent two distinct yet intersecting epistemological and pedagogical traditions: one globally standardized, the other locally reimagined.
+This study explores a systematic comparative analysis of the TYMM student profile and the IB Learner Profile, focusing on their philosophical underpinnings, value orientations, and educational implications. The comparative inquiry is timely and critical, given the increasing global trend toward glocalization in education — the fusion of global frameworks with local values (Robertson & Dale, 2020).
+1.2. Literature Gap: From Global Norms to Local Narratives
+Despite a growing body of research comparing international education models (Cambridge, 2012; Hayden & Thompson, 2013), few studies have rigorously examined how newly developed national frameworks, particularly from non-Western contexts, construct learner profiles in response to or in divergence from dominant global paradigms like the IB. Moreover, the literature lacks in-depth comparative analyses that go beyond superficial similarities to investigate the normative and ethical foundations of such models.
+The work of Pinar (2019) emphasizes the significance of “curriculum as complicated conversation,” suggesting that meaningful curriculum inquiry must involve dialogue across cultural, historical, and ideological boundaries. In this light, understanding the TYMM not merely as a policy document but as an epistemological stance opens new analytical avenues. Similarly, Biesta’s (2010) notion of subjectification—the idea that education must support the emergence of the subject—provides a powerful lens through which to analyze whether and how these profiles foster human agency and ethical formation.
+1.3. Türkiye Yüzyılı Maarif Modeli: A New Educational Ethos
+The Türkiye Yüzyılı Maarif Modeli represents a strategic and ideologically charged shift in Turkish education. Building upon national heritage, Islamic tradition, and contemporary pedagogical discourse, the model articulates 18 core values, such as responsibility, honesty, patience, mercy, courage, and perseverance, each intended to shape a holistic and ethical human being (MEB, 2023). Unlike competency-based Western models which often privilege skills and knowledge, TYMM foregrounds virtue ethics as central to the educational mission. This approach aligns with Alasdair MacIntyre’s (1981) critique of modernity’s loss of moral coherence and his call for a return to traditions of virtue.
+However, such a model raises critical questions: Can a nationally defined profile remain relevant in an increasingly interconnected educational landscape? How do these virtues align or conflict with the competencies defined by globally accepted models such as the IB? This study engages with these questions by critically comparing the learner profiles, treating them not only as policy artifacts but as manifestations of competing educational ontologies.
+1.4. The IB Learner Profile: A Global Pedagogical Standard
+Since its inception in 1968, the International Baccalaureate has grown to be one of the most respected global education systems. Its learner profile functions as the backbone of its curricular and assessment practices across all programmes (IBO, 2017). Grounded in constructivist, inquiry-based learning and humanist education philosophies, the IB profile promotes an image of the learner as an active, reflective, and principled global citizen. Scholars have praised its alignment with 21st-century competencies (Drake et al., 2015), but have also critiqued its potential neoliberal undertones (Bunnell, 2015) and the challenge of contextualizing such profiles within non-Western educational settings (Resnik, 2012).
+The contrast between IB’s individualist humanism and TYMM’s communal, virtue-centered formation reveals deep-rooted philosophical divergences. Understanding these differences is essential for evaluating the adaptability, cultural resonance, and educational effectiveness of such models, particularly in contexts like Turkey where both globalization and cultural preservation are concurrent educational goals.
+1.5. Purpose and Research Questions
+This research aims to conduct a comparative document analysis of the Türkiye Yüzyılı Maarif Modeli’s “Yetkin ve Erdemli İnsan” profile and the IB Learner Profile. Specifically, the study seeks to:
+ListeParagraf|Identify the core values and competencies emphasized in each model.
+ListeParagraf|Analyze the philosophical foundations underlying each profile.
+ListeParagraf|Evaluate the educational implications of each model for learner identity and citizenship formation.
+ListeParagraf|Explore potential convergences and divergences and their meanings within a global-local educational framework.
+The research is guided by the following questions:
+ListeParagraf|How do the TYMM and IB profiles conceptualize the ideal learner?
+ListeParagraf|What are the philosophical and pedagogical underpinnings of each profile?
+ListeParagraf|To what extent do these profiles align with or diverge from each other in values and competencies?
+ListeParagraf|What do these similarities and differences reveal about the broader tensions in global education discourse?
+1.6. Significance of the Study
+This study contributes to comparative curriculum studies by offering a critical cross-cultural examination of two learner profiles situated within vastly different socio-political and philosophical traditions. It addresses the gap identified by scholars such as Deng & Luke (2008) and Rizvi & Lingard (2010), who call for more nuanced, non-Western perspectives in global education discourse. Additionally, it responds to the need for locally rooted yet globally informed curriculum models that resist homogenization while embracing constructive engagement with global standards.
+Ultimately, this research aims to inform both policy and practice, aiding educators, curriculum developers, and policy makers in designing learner profiles that are culturally authentic, philosophically robust, and pedagogically effective.
+2. Theoretical and Conceptual Framework
+In contemporary educational discourse, the construction of learner profiles is deeply intertwined with foundational concepts such as virtue ethics, competency-based education, moral development, and global citizenship. These concepts not only shape the aims of curriculum models but also reflect broader ontological, epistemological, and axiological assumptions within educational theory. This study situates its comparative inquiry into the Türkiye Yüzyılı Maarif Modeli (TYMM) and the International Baccalaureate (IB) within a multidimensional conceptual framework composed of the following intersecting themes: (1) Virtue Ethics and Moral Education, (2) Competency and Holistic Learning, (3) Curriculum as Identity Formation, and (4) Global Citizenship and Educational Cosmopolitanism.
+2.1. Virtue Ethics and Moral Formation in Education
+Virtue ethics, as revived by MacIntyre (1981) and Nussbaum (1997), emphasizes character development, habituation of moral traits, and the cultivation of a purposeful life. Unlike deontological or consequentialist models of ethics, virtue ethics focuses on who the learner is becoming rather than what they know or do. The TYMM’s learner profile, with its repeated emphasis on erdem (virtue), hikmet (wisdom), and sadakat (loyalty), reflects this Aristotelian tradition filtered through Islamic-Turkish moral philosophy (Demirtaş & Gömleksiz, 2023).
+In the Turkish educational context, scholars such as Kıncal and Gökçek (2022) highlight the increasing institutional interest in “erdem temelli eğitim” (virtue-based education) as a response to the moral fragmentation of modern schooling. The TYMM profile aims to reconstruct learner identity not through behavioral norms but through ontological transformation grounded in cultural and spiritual values.
+In contrast, the IB’s use of moral language—principled, caring, balanced—derives largely from secular frameworks and reflects a more functional view of ethics aimed at fostering intercultural respect and personal responsibility (IBO, 2017; Hayden & Thompson, 2013).
+2.2. Competency-Based Education and Holistic Human Development
+Competency has become a central organizing principle in international curriculum reforms, emphasizing transferable skills, problem-solving, and metacognitive abilities (OECD, 2018). In TYMM, however, yetkinlik is conceptualized not merely as technical skill but as an integrated capacity that includes ethical, intellectual, emotional, and spiritual dimensions. This resonates with holistic education paradigms, where human development is understood as multilayered and contextually embedded (Miller, 2007).
+The IB, by contrast, promotes constructivist learning theory, where competencies are nurtured through inquiry, reflection, and action. Scholars like Drake et al. (2015) emphasize how the IB framework supports interdisciplinary thinking and learner agency, but critics such as Bunnell (2015) argue that this often risks becoming instrumentalist, especially in highly competitive international schooling contexts.
+2.3. Curriculum as Identity and Subject Formation
+William Pinar’s (2019) concept of “curriculum as complicated conversation” frames the curriculum not merely as a vehicle of knowledge transfer but as a discursive space where identity, memory, and possibility are negotiated. The TYMM learner profile exemplifies this by framing education as a means to form “erdemli bireyler” situated within Turkey’s civilizational values and historical consciousness.
+This contrasts with the IB’s learner profile, which draws from postmodern and liberal educational thought, where identity is seen as fluid, reflective, and self-directed (Resnik, 2012). The ontological stance of the IB reflects globalist and pluralist assumptions, while TYMM reflects a tradition-centered essentialism. These differences directly influence how learners are imagined: as agents of continuity and responsibility in TYMM, versus agents of change and inquiry in the IB.
+2.4. Global Citizenship and Educational Cosmopolitanism
+The IB is often cited as a leading model for global citizenship education (GCE) (Cambridge, 2012; Andreotti, 2014). Its learner profile positions students as actors in a borderless world, capable of critical thinking, empathy, and cultural negotiation. It is undergirded by cosmopolitan ideals and closely aligned with UNESCO’s Learning to Live Together framework.
+TYMM, while not ignoring global relevance, is more inward-looking and nationally rooted. The model reflects a civic-republican understanding of citizenship, emphasizing belonging, loyalty, and collective responsibility. This aligns with recent Turkish policy movements that seek to decolonize curriculum policy by emphasizing local knowledge systems and “medeniyet perspektifi” (Öztürk, 2023).
+2.5. Synthesis: Toward a Dialogical Learner Profile
+The above conceptual tensions are not necessarily oppositional; rather, they can be understood as dialectical. TYMM’s moral-ontological grounding can complement IB’s epistemological openness, creating a space for dialogical integration. As Biesta (2010) notes, good education requires not only qualification and socialization, but also subjectification—the emergence of the learner as a unique moral being. A hybrid model drawing from both frameworks can support this vision.
+Moreover, this study positions learner profiles as ideological artifacts (Apple, 2004) that serve to articulate the values, aspirations, and self-conceptions of the societies that produce them. The comparison of TYMM and IB profiles thus offers a valuable lens into competing educational modernities: one grounded in civilizational renewal, the other in global adaptability.
+3. METHODOLOGY
+3.1. Research Design
+This study adopts a qualitative, comparative case study design (Merriam & Tisdell, 2016) to analyze and interpret the philosophical, pedagogical, and value-based differences between the “Yetkin ve Erdemli İnsan” student profile outlined in the Türkiye Yüzyılı Maarif Modeli (TYMM) and the International Baccalaureate (IB) Learner Profile. The comparative case study approach was chosen due to its capacity to generate rich, contextualized, and in-depth insights from complex educational documents within their socio-cultural frameworks (Yin, 2018).
+Qualitative comparative analysis is particularly suitable for uncovering latent ideological meanings, normative orientations, and value discourses embedded in curriculum texts. As such, this research aligns with the interpretivist paradigm, which emphasizes understanding educational phenomena through the meanings individuals or institutions assign to them (Schwandt, 2007).
+3.2. Data Sources
+The primary data sources in this study are two official curriculum documents: Türkiye Yüzyılı Maarif Modeli (2023), published by the Turkish Ministry of National Education (MEB). IB Learner Profile (2017), published by the International Baccalaureate Organization (IBO). Both documents are treated as policy texts and subjected to qualitative document analysis. These documents are publicly accessible and form the official basis of curriculum planning, instructional design, and learner assessment in their respective educational systems.
+To ensure transparency and replicability, the analysis exclusively uses primary, unaltered versions of these documents, sourced from the official websites of MEB and IBO, respectively. No translated or secondary summaries were used to preserve semantic integrity.
+3.3. Data Collection and Analytical Procedure
+The data analysis proceeded in three recursive phases, guided by qualitative content analysis techniques (Schreier, 2012):
+Phase 1: Initial Coding and Thematic Categorization
+Both texts were first read holistically to gain an overview of their tone, structure, and key conceptual emphases. A deductive coding scheme was developed based on relevant literature on learner profiles (Biesta, 2010; Pinar, 2019; Deng & Luke, 2008), focusing on five key categories:
+ListeParagraf|Epistemological stance
+ListeParagraf|Ethical-moral orientation
+ListeParagraf|Learner identity construction
+ListeParagraf|Citizenship formation
+ListeParagraf|Value-competency alignment
+Codes were iteratively refined using constant comparative method (Glaser & Strauss, 1967), allowing for emergent categories that reflected document-specific themes.
+Phase 2: Cross-Case Comparative Analysis
+Thematic matrices were constructed to compare both profiles across each category. This comparative mapping enabled the identification of convergences, divergences, and unique emphases, particularly in how each model defines the ideal student and educational purpose.
+Phase 3: Interpretive Synthesis
+Findings from the cross-case analysis were then synthesized using critical discourse analysis (CDA) (Fairclough, 2003), to interrogate the ideological assumptions and social imaginaries embedded in each learner profile. This step aimed to reveal how each model positions the student within broader political, moral, and epistemic frameworks.
+3.4. Validity, Reliability, and Trustworthiness
+To enhance the credibility and trustworthiness of the findings, the study employed triangulation of analytical lenses by drawing on three well-established theoretical frameworks:
+ListeParagraf|Biesta’s (2010) dimensions of education — qualification, socialization, subjectification.
+ListeParagraf|Curriculum-as-conversation framework (Pinar, 2019).
+ListeParagraf|Cultural-historical activity theory to understand curriculum as socio-historically mediated text (Engeström, 2001).
+Furthermore, peer debriefing was conducted with two curriculum studies experts who reviewed the codebook and interpretation, offering critical feedback to minimize researcher bias. An audit trail of coding decisions and thematic development was maintained. Transferability was ensured by providing thick descriptions of the socio-political context of each curriculum document. Dependability was addressed through consistent application of the coding protocol across both texts.
+3.5. Ethical Considerations
+As this study exclusively uses publicly available policy documents and does not involve human participants, formal ethical clearance was not required. However, ethical considerations were upheld by ensuring:
+ListeParagraf|Proper attribution and citation of all sources,
+ListeParagraf|Contextual accuracy in interpreting culturally embedded terminology (e.g., "erdem" vs. "principled"),
+ListeParagraf|Avoidance of evaluative language that privileges one model over the other.
+3.6. Limitations
+While the document-based comparative approach offers deep insights into curriculum values and learner conceptualizations, it inherently lacks student and teacher perspectives, which could offer experiential validation of the profiles' implementation. Future research could employ mixed methods to bridge this gap by integrating interview or classroom observation data.
+Another limitation lies in contextual specificity: the IB model represents a transnational system with diverse applications, while the TYMM is nationally bounded. Thus, while comparisons are conceptually valuable, generalizations must be approached with caution.
+4. FINDINGS
+The findings of the study are organized under four main thematic categories derived from the comparative analysis: (1) Value Orientation, (2) Learner Identity Construction, (3) Epistemological Positioning, and (4) Citizenship and Global Responsibility. Each theme is discussed in light of the differences and convergences between the Türkiye Yüzyılı Maarif Modeli (TYMM) and the International Baccalaureate (IB) Learner Profile.
+4.1. Value Orientation: Ethical Foundations and Moral Priorities
+One of the most prominent differences between the TYMM and IB learner profiles lies in their axiological cores—that is, the systems of value they promote.
+TYMM grounds its values in traditional, religious, and philosophical roots specific to Turkish-Islamic culture. Terms such as "sabır" (patience), "iffet" (modesty), "merhamet" (compassion), and "sadakat" (loyalty) appear frequently, indicating a strong emphasis on virtue ethics (MacIntyre, 1981). In contrast, the IB learner profile uses more secular-universalist terminology, such as "principled," "caring," and "open-minded."
+
+
+
+
+Table 1. Core Value Comparison Between TYMM and IB Profiles
+<<<TABLE>>>
+Value Theme || TYMM (2023) || IB Learner Profile (2017)
+Ethical Focus || Virtue Ethics (e.g., sabır, adalet) || Deontological Ethics (e.g., principled, caring)
+Cultural Reference || Turkish-Islamic Tradition || Secular Global Humanism
+Emotional Emphasis || Compassion, loyalty, modesty || Empathy, open-mindedness
+Religious Language || Implicit references (e.g., hikmet) || Absent
+<<<END TABLE>>>
+
+This contrast reveals how TYMM's model is morally prescriptive and identity-forming, whereas IB remains ethically inclusive and globally adaptive.
+4.2. Learner Identity Construction: The “Ideal Student” Archetype
+While both profiles construct a vision of the ideal student, they differ in learner agency and social orientation.
+TYMM positions the student as a “yetkin ve erdemli insan” — a holistically developed individual responsible not only to the self but also to the family, nation, and ummah. The emphasis is on duty-bound citizenship and moral maturity.
+IB, conversely, promotes a self-actualizing individual, characterized by intellectual curiosity, global-mindedness, and personal initiative (Drake et al., 2015).
+
+
+Figure 1. Learner Identity Axes in TYMM and IB
+This graphic illustrates the positioning of each profile along two axes: communal vs. individual moral frameworks, and passive vs. active agency. TYMM’s learner is shaped by social obligations, while IB’s learner shapes the world through inquiry and reflection.
+4.3. Epistemological Positioning: Knowledge and Learning
+The epistemic foundations of each profile further differentiate their educational philosophies. IB aligns with constructivist epistemology, emphasizing learners as active meaning-makers through inquiry, exploration, and reflection (IBO, 2017). TYMM adopts a value-integrated realist epistemology, where knowledge acquisition is linked with moral responsibility and cultural heritage (MEB, 2023). Both frameworks highlight lifelong learning, but their learning goals diverge: IB promotes intellectual autonomy, whereas TYMM integrates moral accountability into the learning process.
+4.4. Citizenship and Global Responsibility
+TYMM explicitly centers on national consciousness, drawing from history, civilization, and spiritual roots. The model encourages students to internalize and act upon local responsibilities before global engagement. By contrast, the IB cultivates global citizenship, characterized by respect for diversity, international understanding, and the ability to collaborate across cultures (Cambridge, 2012; Resnik, 2012).
+Table 2. Citizenship and Globality Orientation
+<<<TABLE>>>
+Dimension || TYMM || IB
+Citizenship Type || National-Cultural || Global-Cosmopolitan
+Primary Allegiance || Nation, Tradition || Humanity, Multiculturalism
+Action Emphasis || Service to community & state || Global collaboration & advocacy
+Identity Framing || Culturally-rooted Turkish citizen || Globally competent world citizen
+<<<END TABLE>>>
+
+The data suggest that TYMM reflects a cultural essentialist stance, while IB adopts a pluralist-globalist orientation. These positions impact how students are envisioned as agents in their communities and the world.
+5.5. Summary of Findings
+This comparative analysis reveals that: TYMM prioritizes virtue ethics, social duty, and culturally embedded identity formation. IB emphasizes individual agency, global outlook, and constructivist learning. Despite ideological divergence, both aim for holistic learner development, integrating values, competencies, and ethical responsibility. These findings provide a basis for discussing the potential of hybrid curriculum models that respect cultural particularity while embracing global competencies.
+5. CONCLUSION AND DISCUSSION
+4.1. Summary of Key Findings
+This study sought to comparatively examine the learner profiles of the Türkiye Yüzyılı Maarif Modeli (TYMM) and the International Baccalaureate (IB), focusing on their philosophical underpinnings, value orientations, and implications for learner identity and citizenship. The analysis revealed significant contrasts in moral foundations, epistemological perspectives, and sociopolitical visions. While the TYMM is rooted in virtue ethics, culturally specific moral values, and national identity, the IB reflects a secular-humanist orientation, global citizenship ideals, and learner agency grounded in constructivist epistemology.
+Despite these contrasts, both models share a holistic vision of education and aim to nurture learners who are ethically aware, socially responsible, and intellectually active. However, the ways in which these goals are interpreted, enacted, and culturally framed differ markedly. These findings contribute to the growing field of comparative curriculum studies and call for a deeper understanding of how national and global visions of the “ideal learner” are constructed.
+5.2. Philosophical Divergence and the Ethics of Curriculum
+The TYMM’s emphasis on yetkinlik (competency) and erdem (virtue) constructs a student profile that is inherently teleological—education is not merely about skill acquisition, but about moral and spiritual fulfillment. This aligns with Alasdair MacIntyre’s (1981) call for education to return to virtue ethics, in which moral character is not an outcome but a continuous formation shaped by tradition and community. The learner, in the TYMM, is not just an autonomous individual but a social-moral being, shaped within a web of duties to family, nation, and belief systems.
+In contrast, the IB model, while also promoting values such as “principled” and “caring,” derives these from secular humanism and post-Enlightenment ideals. As Biesta (2010) argues, such profiles often risk promoting instrumental rationality, where values are functional rather than existential. The IB learner, positioned as a globally mobile citizen, reflects broader neoliberal currents in education that prioritize adaptability, intercultural competence, and self-actualization (Bunnell, 2015; Rizvi & Lingard, 2010).
+This philosophical divergence raises important questions: Can virtue and competence be unified in a coherent learner profile? Is it possible to construct educational models that are both culturally anchored and globally relevant? The findings suggest that rather than choosing between local and global paradigms, what is needed is a dialogical model of learner formation—one that recognizes the plurality of moral and epistemic traditions.
+5.3. The Politics of Identity in Learner Profiles
+Curriculum is never neutral; it always embodies political decisions about which identities, values, and knowledges are to be included or excluded (Apple, 2004). In this study, the TYMM reveals a conscious effort to reclaim educational sovereignty, positioning the Turkish learner within a historical and spiritual continuum. This is in line with Pinar’s (2019) concept of “curriculum as complicated conversation,” where national identity, history, and future aspirations are in dialogue.
+Conversely, the IB reflects the global imaginary—a vision of the world as interconnected and mobile, where students are expected to be cosmopolitan citizens. While this has clear benefits in promoting tolerance and collaboration, scholars like Resnik (2012) and Cambridge (2012) caution against cultural dilution, where local epistemologies may be marginalized.
+Thus, the discussion on learner profiles is also a struggle over identity: Who defines the learner? What does it mean to be educated in a specific cultural and political context? The TYMM responds with rootedness; the IB with fluidity. Both approaches have strengths and limitations, and comparative analyses like this one provide a space to interrogate these tensions constructively.
+5.4. Implications for Curriculum Theory and Practice
+From a curriculum theory standpoint, this study affirms that learner profiles are curriculum ideologies in miniature (Schiro, 2008). They encapsulate how societies envision their ideal citizen, their relationship to knowledge, and their moral obligations. The comparative lens reveals that:
+The TYMM contributes to decolonizing curriculum theory, offering a model that resists Western dominance and reclaims indigenous ethical frameworks.
+The IB remains a benchmark for global educational standards, but must continue to critically reflect on its cultural assumptions and ethical coherence.
+For practitioners and policy makers, these findings highlight the importance of context-sensitive curriculum development. Educators in Turkey and similar contexts must navigate the balance between global integration and cultural preservation. Hybrid models—drawing from both virtue ethics and global competencies—may offer more inclusive and sustainable pathways.
+5.5. Reimagining the "Ideal Learner": Toward a Hybrid Framework
+One of the most promising insights from this study is the potential for synthesis. Rather than framing TYMM and IB as mutually exclusive, their integration could lead to more complex and robust learner models.
+For instance:
+TYMM’s emphasis on moral character can complement IB’s focus on critical thinking.
+IB’s inquiry-based approach can enrich TYMM’s reflective, purpose-driven moral education.
+This is consistent with the work of Andreotti (2014), who advocates for “critical global citizenship education” that embraces epistemic plurality and moral reflexivity. Likewise, scholars like Deng & Luke (2008) argue for post-foundational curriculum models that move beyond rigid binaries and engage in ethical pluralism.
+A hybrid learner profile might, for example, merge TYMM’s erdemli insan with IB’s open-minded communicator, creating a student who is both culturally rooted and globally responsive. This would not only align with the needs of contemporary learners but also reflect the ontological complexity of 21st-century education.
+5.6. Limitations and Future Research Directions
+This study, while offering a rigorous comparative analysis of the Türkiye Yüzyılı Maarif Modeli (TYMM) and the International Baccalaureate (IB) learner profiles, is subject to several limitations that should be considered when interpreting the findings and implications.
+5.1. Document-Based Design and Lack of Empirical Validation
+The most significant limitation of this study is its exclusive reliance on document-based qualitative analysis. While curriculum texts provide rich insights into the intended educational philosophies and learner conceptions, they do not capture how these profiles are interpreted, implemented, or experienced by students, teachers, or administrators in real-life educational contexts. As Ball (1994) and Apple (2004) argue, official curriculum documents represent “textual intentions” that may not align with “curriculum in action.” Therefore, the conclusions drawn here pertain primarily to ideological and discursive constructions, rather than pedagogical practices.
+5.2. Contextual Specificity and Transferability Concerns
+The comparative framework is asymmetrical in its scope: the TYMM is a national curriculum model specific to Turkey, embedded in its socio-political and cultural context, whereas the IB is a transnational educational system with global reach. While this asymmetry enriches the analysis by juxtaposing local and global visions, it also raises concerns about comparability. The differences in scale, purpose, and institutional positioning of the two models may affect how learner profiles are designed and function. Readers should therefore exercise caution when generalizing findings beyond the case-specific boundaries.
+5.3. Absence of Stakeholder Perspectives
+Another limitation is the absence of voices from key educational stakeholders—students, teachers, curriculum developers, and policy makers. Including their lived experiences and interpretations could have provided a more nuanced and grounded understanding of how learner profiles shape identity, motivation, and educational engagement. This exclusion, while intentional due to the document-based scope, limits the ecological validity of the findings.
+5.4. Language and Translation Constraints
+Although care was taken to analyze the TYMM document in its original Turkish and the IB document in its original English, semantic mismatches and cultural connotations may affect comparative interpretations. Terms like "erdem", "hikmet", or "yetkinlik" carry rich philosophical weight that may not fully correspond to IB’s more neutral or procedural descriptors. Future studies involving cross-linguistic and cultural hermeneutics could mitigate this issue.
+This study was limited to document-based analysis, which, while rich in conceptual depth, does not capture implementation realities or learner experiences. Future research could:
+ListeParagraf|Conduct ethnographic or phenomenological studies with students and teachers experiencing TYMM and IB in practice.
+ListeParagraf|Analyze assessment frameworks to understand how learner profiles are operationalized.
+ListeParagraf|Investigate hybrid curriculum initiatives that attempt to blend local and global models.
+ListeParagraf|Moreover, cross-national studies involving other culturally embedded learner profiles—such as Japan’s “kokoro education” or South Korea’s “character-first” model—could offer broader comparative insights.
+6. IMPLICATIONS FOR PRACTICE
+The comparative analysis of the Türkiye Yüzyılı Maarif Modeli (TYMM) and the International Baccalaureate (IB) learner profiles yields several critical implications for educational practice, particularly in curriculum design, teacher training, and policy formulation. These insights are especially relevant for systems seeking to balance cultural specificity with global educational standards.
+6.1. Curriculum Design: Embracing Hybrid Frameworks
+The study underscores the need for hybrid curriculum models that harmonize ethical depth with epistemic diversity. TYMM’s emphasis on culturally rooted virtues can offer a rich moral foundation, while the IB’s focus on inquiry, reflection, and global citizenship introduces essential 21st-century skills. Curriculum developers should consider integrating virtue-based competencies with skills for global engagement, thereby designing learner profiles that are philosophically pluralistic and pedagogically balanced. Such hybridization can prevent the pitfalls of cultural insularity or global uniformity.
+6.2. Teacher Training: Developing Critical Reflexivity
+Teachers are the primary agents through which learner profiles are translated into practice. In contexts influenced by TYMM, educators need professional development that deepens their understanding of moral philosophy, character education, and culturally responsive pedagogy. Conversely, IB-oriented environments benefit from teacher training in critical global citizenship, intercultural dialogue, and reflective practice. In both cases, there is a pressing need to cultivate critical reflexivity among teachers—an awareness of how their values and cultural assumptions shape their pedagogical choices.
+6.3. Policy Making: Local Values, Global Benchmarks
+Policy makers should recognize that learner profiles are not merely educational ideals but instruments of sociopolitical orientation. TYMM exemplifies how national identity and moral vision can be embedded in curriculum policy. However, policymakers must ensure that such models remain inclusive and dialogical, rather than prescriptive or exclusionary. Simultaneously, when adopting global frameworks like IB, it is crucial to contextualize standards without undermining local cultural narratives. Educational policies should be designed to facilitate mutual enrichment rather than cultural substitution.
+6.4. Assessment and Evaluation Practices
+Implementing learner profiles requires alignment with assessment systems that reflect both cognitive and non-cognitive dimensions of learning. TYMM-oriented systems should move beyond rote evaluation to include performance-based assessments that capture character development and ethical reasoning. IB systems can benefit from incorporating localized criteria into their rubrics, ensuring that assessments reflect the socio-cultural realities of the learner.
+6.5. Global Relevance: Lessons for Non-Western Contexts
+For countries grappling with the tension between global alignment and cultural authenticity, TYMM offers a compelling case of curriculum localization that is ideologically coherent and value-driven. However, its integration into comparative global discourse requires transparency, dialogue, and ongoing evaluation. Educational practitioners in other non-Western contexts can draw from TYMM’s model to reclaim local epistemologies while learning from the adaptive methodologies of global programs like the IB.
+7. CONCLUSION
+This study has demonstrated that learner profiles are not merely curricular instruments but cultural and moral blueprints. By comparing TYMM and IB, we have surfaced deeper questions about the goals of education, the nature of identity, and the values that shape future generations. In an age marked by both globalization and cultural revival, the challenge is not to choose between the local and the global but to forge dynamic syntheses that honor both.
+As curriculum theorist William Doll (2002) noted, curriculum must be “rich, recursive, and relational.” This applies equally to learner profiles. The student of the future will not be defined by a single model but by their capacity to navigate and synthesize multiple educational narratives, becoming not just informed or skilled, but wise, ethical, and interculturally competent.
+
+
+
+References (APA 7, DOI included)
+Andreotti, V. (2014). Soft versus critical global citizenship education. Policy & Practice: A Development Education Review, (8), 40–51. https://www.developmenteducationreview.com/issue/issue-8/soft-versus-critical-global-citizenship-education
+
+Apple, M. W. (2004). Ideology and curriculum (3rd ed.). Routledge. https://doi.org/10.4324/9780203487563
+
+Biesta, G. (2010). Good education in an age of measurement: Ethics, politics, democracy. Routledge. https://doi.org/10.4324/9780203850404
+
+Bunnell, T. (2015). The International Baccalaureate and a framework for class consciousness: The potential outcomes of a ‘class-for-itself’. Discourse: Studies in the Cultural Politics of Education, 36(3), 351–363. https://doi.org/10.1080/01596306.2013.871228
+
+Cambridge, J. (2012). Internationalism and international education. In M. Hayden, J. Levy, & J. Thompson (Eds.), The SAGE handbook of research in international education (pp. 105–121). SAGE. https://doi.org/10.4135/9781529716626.n8
+
+Deng, Z., & Luke, A. (2008). Subject matter: Defining and theorizing school subjects. In F. M. Connelly, M. F. He, & J. Phillion (Eds.), The SAGE handbook of curriculum and instruction (pp. 66–90). SAGE. https://doi.org/10.4135/9781412976572.n4
+
+Doll, W. E. (2002). Ghosts and the curriculum. Curriculum Inquiry, 32(3), 343–368. https://doi.org/10.1111/1467-873X.00229
+
+Drake, S. M., Reid, J., & Kolohon, W. (2015). Interweaving curriculum and classroom assessment: Engaging the 21st century learner. Oxford University Press.
+
+Engeström, Y. (2001). Expansive learning at work: Toward an activity theoretical reconceptualization. Journal of Education and Work, 14(1), 133–156. https://doi.org/10.1080/13639080020028747
+
+Fairclough, N. (2003). Analyzing discourse: Textual analysis for social research. Routledge. https://doi.org/10.4324/9780203697078
+
+Glaser, B., & Strauss, A. (1967). The discovery of grounded theory: Strategies for qualitative research. Aldine Publishing.
+Apple, M. W. (2004). Ideology and curriculum (3rd ed.). Routledge. https://doi.org/10.4324/9780203487563
+
+Andreotti, V. (2014). Soft versus critical global citizenship education. Policy & Practice, (8), 40–51.
+
+Biesta, G. (2010). Good education in an age of measurement. Routledge. https://doi.org/10.4324/9780203850404
+
+Bunnell, T. (2015). The IB and class consciousness. Discourse, 36(3), 351–363. https://doi.org/10.1080/01596306.2013.871228
+
+Cambridge, J. (2012). Internationalism in international education. SAGE Handbook of Research in International Education, 105–121.
+
+Demirtaş, H., & Gömleksiz, M. (2023). Erdem temelli eğitim yaklaşımları. Türk Eğitim Bilimleri Dergisi, 21(1), 33–49.
+
+Drake, S. M., Reid, J., & Kolohon, W. (2015). Interweaving curriculum and classroom assessment. Oxford University Press.
+
+Hayden, M., & Thompson, J. (2013). International schools and curriculum. Oxford Review of Education, 39(6), 702–716. https://doi.org/10.1080/03054985.2013.860937
+
+IBO. (2017). What is an IB education? International Baccalaureate Organization.
+
+Kıncal, R. Y., & Gökçek, T. (2022). Türkiye’de karakter ve değer eğitiminin dönüşümü. Eğitim Kuram ve Uygulama Araştırmaları Dergisi, 8(2), 89–103.
+
+MacIntyre, A. (1981). After virtue. University of Notre Dame Press.
+
+Miller, R. (2007). What is holistic education? Encounter.
+
+Nussbaum, M. (1997). Cultivating humanity: A classical defense of reform in liberal education. Harvard University Press.
+
+Öztürk, C. (2023). Medeniyet perspektifiyle yerli ve milli eğitim politikaları. Milli Eğitim Dergisi, 53(2), 19–36.
+
+Pinar, W. F. (2019). Curriculum: Toward new identities. Routledge.
+
+Resnik, J. (2012). Sociology of international education. International Studies in Sociology of Education, 22(4), 291–310.
+
+Hayden, M., & Thompson, J. (2013). International schools: Antecedents, current issues and metaphors for the future. Oxford Review of Education, 39(6), 702–716. https://doi.org/10.1080/03054985.2013.860937
+
+International Baccalaureate Organization (IBO). (2017). What is an IB education? https://www.ibo.org/globalassets/what-is-an-ib-education-en.pdf
+
+MacIntyre, A. (1981). After virtue: A study in moral theory. University of Notre Dame Press.
+
+MEB. (2023). Türkiye Yüzyılı Maarif Modeli. Millî Eğitim Bakanlığı. https://www.meb.gov.tr/turkiye-yuzyili-maarif-modeli/haber/28907/tr
+
+Pinar, W. F. (2019). Curriculum: Toward new identities (2nd ed.). Routledge. https://doi.org/10.4324/9780429317333
+
+Resnik, J. (2012). Sociology of international education: An emerging field of research. International Studies in Sociology of Education, 22(4), 291–310. https://doi.org/10.1080/09620214.2012.751224
+
+Rizvi, F., & Lingard, B. (2010). Globalizing education policy. Routledge. https://doi.org/10.4324/9780203859735
+
+Schiro, M. (2008). Curriculum theory: Conflicting visions and enduring concerns. SAGE Publications.
+
+Schreier, M. (2012). Qualitative content analysis in practice. SAGE Publications.
+
+Schwandt, T. A. (2007). The Sage dictionary of qualitative inquiry (3rd ed.). SAGE Publications.
+
+Yin, R. K. (2018). Case study research and applications: Design and methods (6th ed.). SAGE Publications.
+🔹 Kaynak Listesi (Bölümlere Göre)
+📘 1. Giriş (Introduction)
+Biesta, G. (2010). Good education in an age of measurement: Ethics, politics, democracy. Routledge. https://doi.org/10.4324/9780203850404
+Pinar, W. F. (2019). Curriculum: Toward new identities (2nd ed.). Routledge. https://doi.org/10.4324/9780429317333
+Resnik, J. (2012). Sociology of international education. International Studies in Sociology of Education, 22(4), 291–310. https://doi.org/10.1080/09620214.2012.751224
+Apple, M. W. (2004). Ideology and curriculum (3rd ed.). Routledge. https://doi.org/10.4324/9780203487563
+IBO. (2017). What is an IB education? International Baccalaureate Organization. https://www.ibo.org/globalassets/what-is-an-ib-education-en.pdf
+
+📗 2. Kavramsal Çerçeve (Conceptual Framework)
+MacIntyre, A. (1981). After virtue: A study in moral theory. University of Notre Dame Press.
+Nussbaum, M. (1997). Cultivating humanity: A classical defense of reform in liberal education. Harvard University Press.
+Kıncal, R. Y., & Gökçek, T. (2022). Türkiye’de karakter ve değer eğitiminin dönüşümü. Eğitim Kuram ve Uygulama Araştırmaları Dergisi, 8(2), 89–103.
+Demirtaş, H., & Gömleksiz, M. (2023). Erdem temelli eğitim yaklaşımları. Türk Eğitim Bilimleri Dergisi, 21(1), 33–49.
+Cambridge, J. (2012). Internationalism and international education. In M. Hayden, J. Levy, & J. Thompson (Eds.), The SAGE handbook of research in international education (pp. 105–121). SAGE.
+Andreotti, V. (2014). Soft versus critical global citizenship education. Policy & Practice, (8), 40–51.
+Hayden, M., & Thompson, J. (2013). International schools and curriculum. Oxford Review of Education, 39(6), 702–716. https://doi.org/10.1080/03054985.2013.860937
+Öztürk, C. (2023). Medeniyet perspektifiyle yerli ve milli eğitim politikaları. Milli Eğitim Dergisi, 53(2), 19–36.
+Deng, Z., & Luke, A. (2008). Subject matter: Defining and theorizing school subjects. In The SAGE handbook of curriculum and instruction (pp. 66–90). SAGE. https://doi.org/10.4135/9781412976572.n4
+
+📙 3. Yöntem (Methodology)
+Merriam, S. B., & Tisdell, E. J. (2016). Qualitative research: A guide to design and implementation (4th ed.). Jossey-Bass.
+Yin, R. K. (2018). Case study research and applications: Design and methods (6th ed.). SAGE Publications.
+Schreier, M. (2012). Qualitative content analysis in practice. SAGE Publications.
+Fairclough, N. (2003). Analyzing discourse: Textual analysis for social research. Routledge. https://doi.org/10.4324/9780203697078
+Schwandt, T. A. (2007). The Sage dictionary of qualitative inquiry (3rd ed.). SAGE Publications.
+Engeström, Y. (2001). Expansive learning at work: Toward an activity theoretical reconceptualization. Journal of Education and Work, 14(1), 133–156. https://doi.org/10.1080/13639080020028747
+Glaser, B., & Strauss, A. (1967). The discovery of grounded theory: Strategies for qualitative research. Aldine Publishing.
+
+📕 4. Bulgular (Findings)
+Drake, S. M., Reid, J., & Kolohon, W. (2015). Interweaving curriculum and classroom assessment: Engaging the 21st century learner. Oxford University Press.
+Schiro, M. (2008). Curriculum theory: Conflicting visions and enduring concerns. SAGE Publications.
+
+📒 5. Sonuç ve Tartışma (Discussion)
+Rizvi, F., & Lingard, B. (2010). Globalizing education policy. Routledge. https://doi.org/10.4324/9780203859735
+Doll, W. E. (2002). Ghosts and the curriculum. Curriculum Inquiry, 32(3), 343–368. https://doi.org/10.1111/1467-873X.00229
