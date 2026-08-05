@@ -8,15 +8,17 @@
 
 ## Özet
 
-Kaynakçadaki 28 künyenin **13'ünde** hata bulundu. Bunların **6'sı** hakem denetiminden geçemeyecek nitelikte: ya kaynak hiç mevcut değil, ya da verilen DOI bambaşka bir yayına ait.
+Kaynakçadaki 28 künyenin **15'inde** hata bulundu. Bunların **8'i** hakem denetiminden geçemeyecek nitelikte: ya kaynak hiç mevcut değil, ya da verilen DOI bambaşka bir yayına ait.
 
 | Kategori | Sayı |
 |---|---|
 | Uydurma / hiçbir izine rastlanmayan kaynak | 4 |
-| Gerçek kaynak, ama künye ciddi biçimde yanlış (yıl/cilt/DOI/yayın türü) | 5 |
-| Küçük künye hatası (sayfa, DOI basamağı) | 2 |
+| Gerçek kaynak, ama künye ciddi biçimde yanlış (yıl/cilt/DOI/yayın türü) | 7 |
+| Küçük künye hatası (sayfa, DOI basamağı) | 3 |
 | Metinde atıf var, kaynakçada yok | 1 |
 | Birincil kaynak tarih hatası | 1 |
+
+**En kritik örüntü:** Dört ayrı DOI, atfedildiği yayınla hiç ilgisi olmayan bambaşka bir esere çözümleniyor (Bunnell, Doll, Biesta, Rizvi & Lingard). Bu, tek tek yazım hatası olarak açıklanamayacak sistematik bir sorundur ve dergilerin CrossRef tabanlı otomatik referans denetiminde toplu hâlde yakalanır.
 
 ---
 
@@ -109,6 +111,27 @@ Gerçekte iki ayrı yayın karıştırılmış:
 
 Makale 2014 yılını, 2006 makalesinin sayfa numaralarını ve yanlış sayı numarasını birleştirmiş. Hangisine atıf yapılacağına karar verilip tek biçime getirilmeli.
 
+### B6. Biesta, G. (2010)
+Makalede:
+> *Good education in an age of measurement: Ethics, politics, democracy. Routledge. https://doi.org/10.4324/9780203850404*
+
+Verilen DOI gerçekte şuna ait:
+> **Early Biliteracy Development** (Routledge, 2012)
+
+Biesta'nın kitabı gerçektir ancak yayıncısı **Paradigm Publishers** (Boulder, CO, 2010)'dır ve bu künyeye güvenilir biçimde bağlanmış bir DOI bulunamadı. Doğru künye, DOI'siz verilmelidir:
+> Biesta, G. (2010). *Good education in an age of measurement: Ethics, politics, democracy*. Paradigm Publishers.
+
+Bu kaynak makalenin kuramsal çerçevesinin taşıyıcı kolonlarından biri (qualification–socialization–subjectification üçlüsü) olduğu için künyenin doğru olması ayrıca önemli.
+
+### B7. Rizvi, F., & Lingard, B. (2010)
+Makalede:
+> *Globalizing education policy. Routledge. https://doi.org/10.4324/9780203859735*
+
+Verilen DOI gerçekte şuna ait:
+> **Social Work in Health Settings** (McCoyd & Kerson, Routledge, 2010)
+
+Doğru DOI: **`10.4324/9780203867396`**
+
 ---
 
 ## C. Küçük künye hataları
@@ -142,7 +165,12 @@ Karşılaştırmalı eğitim politikası makalesinde reform tarihinin bir yıl y
 
 Aşağıdakiler künyeleriyle birlikte doğrulandı, olduğu gibi kullanılabilir:
 
-Apple (2004) · Biesta (2010) · Engeström (2001) · Fairclough (2003) · Glaser & Strauss (1967) · MacIntyre (1981) · Merriam & Tisdell (2016) · Nussbaum (1997) · Rizvi & Lingard (2010) · Schiro (2008) · Schreier (2012) · Schwandt (2007) · Yin (2018) · IBO (2017) · Drake, Reid & Kolohon (2015)
+Apple (2004) — DOI `10.4324/9780203487563` doğrulandı
+Engeström (2001) — DOI `10.1080/13639080020028747` doğrulandı
+Fairclough (2003) — DOI `10.4324/9780203697078` doğrulandı
+Deng & Luke (2008) — DOI doğru (yalnızca sayfa aralığı düzeltilecek, bkz. C2)
+
+Ayrıca DOI'siz kitap künyeleri olarak sorunsuz: Glaser & Strauss (1967) · MacIntyre (1981) · Merriam & Tisdell (2016) · Nussbaum (1997) · Schiro (2008) · Schreier (2012) · Schwandt (2007) · Yin (2018) · IBO (2017) · Drake, Reid & Kolohon (2015)
 
 *Not:* Miller (2007) künyesi eksik — "What is holistic education? Encounter" biçimi yayın türünü ve künyeyi belirsiz bırakıyor. Ron Miller'ın ilgili çalışması *Encounter: Education for Meaning and Social Justice* dergisinde yayımlanmıştır; tam künye tamamlanmalı.
 
