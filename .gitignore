@@ -1,0 +1,4 @@
+efa/*.pkl
+efa/*.log
+__pycache__/
+*.pyc
