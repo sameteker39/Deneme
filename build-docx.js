@@ -171,10 +171,10 @@ function parse(md) {
 const files = [
   'manuscript/00-abstract.md',
   'manuscript/01-introduction.md',
-  'manuscript/02-framework.md',
-  'manuscript/03-methodology.md',
+  'manuscript/02-context.md',
+  'manuscript/03-approach.md',
   'manuscript/04-findings.md',
-  'manuscript/05-discussion.md',
+  'manuscript/05-conclusion.md',
   'manuscript/06-references.md',
 ];
 
@@ -183,11 +183,6 @@ files.forEach((f, idx) => {
   let md = fs.readFileSync(f, 'utf8');
 
   // strip the per-section reference appendix from the methodology
-  if (f.includes('03-methodology')) {
-    md = md.split('## Sources newly introduced in this section')[0]
-           .replace(/---\s*$/, '');
-  }
-
   // split the author notes off the references file and mark them
   if (f.includes('06-references')) {
     const parts = md.split('## Notes for the author before submission');
@@ -210,7 +205,7 @@ files.forEach((f, idx) => {
 
 const doc = new Document({
   creator: 'Samet Eker',
-  title: 'National and Global Visions of the Educated Person',
+  title: "Whose 'we'? How Türkiye's Maarif Model and the International Baccalaureate position the student",
   styles: {
     default: {
       document: { run: { font: FONT, size: SIZE }, paragraph: { spacing: { line: 360 } } },
@@ -223,6 +218,6 @@ const doc = new Document({
 });
 
 Packer.toBuffer(doc).then(buf => {
-  fs.writeFileSync('Ulusal-ve-Kuresel-Egitim-Vizyonlari-REVIZE.docx', buf);
+  fs.writeFileSync('Whose-we-Maarif-Model-and-IB-learner-profile.docx', buf);
   console.log('written:', buf.length, 'bytes');
 });

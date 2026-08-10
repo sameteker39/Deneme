@@ -1,104 +1,151 @@
 # 4. Findings
 
-The two profiles present themselves as the same kind of object. Each names ten qualities of an educated person, each set is offered as the organising commitment of a whole curriculum, and each is short enough to be printed on a poster. That surface equivalence is where the analysis begins, and it does not survive contact with the texts.
+## 4.1 The described and the addressed
 
-Findings are reported under five headings: the granularity of the two profiles (4.1), who is given the voice in each (4.2), the collective the learner is answerable to (4.3), the conditions attached to autonomy (4.4), and what each profile has no room for (4.5). Turkish terms are retained with glosses at first use. Every claim below is anchored to a named characteristic or attribute and a quoted span.
+Read the two profiles aloud and the difference arrives before any of the content does.
 
-## 4.1 Ten and ten, but not the same unit
+Here is the IB on what it wants:
 
-TYMM organises its profile through two domains of wholeness, *yetkinlik* (competence) and *erdem* (virtue), which are then "divided into ten profile characteristics": ahlaklı, bilge, cesaretli, estetik, iradeli, merhametli, sağlıklı, sorgulayıcı, üretken, vatansever. The IB names ten attributes: inquirers, knowledgeable, thinkers, communicators, principled, open-minded, caring, risk-takers, balanced, reflective.
+> **Inquirers.** We nurture our curiosity, developing skills for inquiry and research. We know how to learn independently and with others. We learn with enthusiasm and sustain our love of learning throughout life.
+>
+> **Principled.** We act with integrity and honesty, with a strong sense of fairness and justice, and with respect for the dignity and rights of people everywhere. We take responsibility for our actions and their consequences.
 
-The two lists are the same length and are not the same kind of thing.
+And here is the Maarif Model:
 
-Each TYMM characteristic is further specified by named components, seven for ahlaklı and vatansever, five for bilge, six for the remaining seven. This yields 61 component slots, of which 60 are distinct: *öfkesini kontrol eden* (controls their anger) is the one component the text assigns to two characteristics, cesaretli and iradeli. Each component carries its own one- or two-sentence definition. The IB attributes have no equivalent sub-layer; each is elaborated by a single descriptor of two or three sentences and stops there.
+> **Adil.** Herkesin eşit haklara sahip olduğuna inanır ve adaleti benimser.
+> *(Just. Believes that everyone has equal rights and embraces justice.)*
+>
+> **Güvenilir.** Verdiği sözleri tutar, başkaları tarafından güvenilir biri olarak kabul edilir.
+> *(Trustworthy. Keeps the promises they make; is accepted by others as someone who can be trusted.)*
 
-The consequence is a ratio of roughly six to one in specification. TYMM tells the reader what *ahlaklı* consists of and then what each constituent means; the IB tells the reader what *principled* means and leaves the decomposition to the school. This is not a difference in thoroughness. It is a difference in what the document takes itself to be doing. TYMM's profile is written as an instrument that must be operable across a single national system, where the components can be traced into the Erdem-Değer-Eylem Çerçevesi and the skills framework and, from there, into learning outcomes. The IB profile is written to survive translation into 160 national contexts, and its generality is the condition of that portability. Bunnell's (2010) reading of the IB as an institution managing a dispersed constituency is legible in the grammar of the profile itself.
+The IB says *we*. It says it in every one of its ten descriptors, without exception. The Maarif Model says *they* — or rather, Turkish being what it is, it says nothing at all in the subject slot and lets the verb carry it, in the aorist: *inanır*, *tutar*, *benimser*. Across sixty-one component definitions the person never shifts.
 
-A methodological consequence follows, and it shapes the rest of this section. Comparing the two at the level of the named quality compares like with like structurally but not semantically, because a TYMM characteristic carries six times the specification. Where the analysis below compares definitions, it compares the IB descriptor against the TYMM component definitions in aggregate, and says so.
+Neither choice is idiomatic default. Turkish policy prose can address a reader directly and often does; the Maarif Model's own preface speaks of *milletimiz*, our nation, and *eğitim sistemimiz*, our education system, so the first person is available to this document and is used elsewhere in it. The profile section declines it. The IB's *we* is likewise a decision, and a recent one: earlier versions of the profile were written in the third person, and the shift to first person came with revision. Both texts arrived at their person on purpose.
 
-## 4.2 Who speaks the profile
+What the choice does is place the student differently in relation to the text.
 
-The clearest divergence between the two texts is grammatical, and it runs without exception through both.
+The IB's *we* has no antecedent. It is not the authors, since the descriptors are plainly not about IB staff; it is not the students alone, since the document speaks on their behalf before any of them has read it. It is a collective the reader is inside by virtue of reading. This is what makes the profile feel like an invitation rather than a specification: to read *we nurture our curiosity* is to have been enrolled in a curiosity that is already underway.
 
-Every one of the ten IB descriptors is written in the first person plural. Inquirers: "We nurture our curiosity, developing skills for inquiry and research." Principled: "We act with integrity and honesty, with a strong sense of fairness and justice, and with respect for the dignity and rights of people everywhere." Balanced: "We understand the importance of balancing different aspects of our lives—intellectual, physical, and emotional—to achieve well-being for ourselves and others." Ten out of ten. The document also glosses itself in these terms, describing the profile as "the aspirations of a global community that shares the values underlying the IB's educational philosophy" (IBO, 2015, p. 1).
+The Turkish aorist does something else, and something that English glosses flatten. It is not a simple present. It states what a person characteristically does, what can be expected of them, what follows from their being the kind of person they are. *Verdiği sözleri tutar* does not report that this student is currently keeping a promise; it says that promise-keeping is what issues from them. The aorist describes a settled disposition, and to describe a disposition is to stand outside it.
 
-Every one of TYMM's 61 component definitions is written in the third person singular, in the Turkish aorist. Adil: "Herkesin eşit haklara sahip olduğuna inanır ve adaleti benimser" (believes that everyone has equal rights and embraces justice). Güvenilir: "Verdiği sözleri tutar" (keeps the promises they make). Bayrağını seven: "Bayrağına ve millî sembollere saygı gösterir" (shows respect for their flag and national symbols). Sixty-one out of sixty-one.
+So one text speaks from within a community and the other about a figure. The IB profile enacts membership. The Maarif Model draws a portrait.
 
-The distinction is not stylistic. The first person plural places the learner inside the collective that is speaking; the profile is uttered by the community the learner is being invited to join, and reading it is an act of provisional membership. The third person aorist places the learner outside, as the described object of an educational process, and the aorist in Turkish carries a habitual and dispositional force that a simple present does not: it states what this person characteristically does. The IB profile performs belonging. TYMM's profile specifies a type.
+We should not push this further than it goes. The named qualities themselves do not divide as neatly as the descriptors: four IB attributes are agentive nouns and six are adjectives, and among the Turkish ten, *sorgulayıcı* and *üretken* are agentive in form. The contrast is sharp at the level of the elaborations, where the texts do most of their work, and only partial at the level of the labels.
 
-Two qualifications keep this from being overdrawn. First, the IB's first person is recent. Earlier versions of the profile were written in the third person, and the shift is a deliberate revision rather than a founding feature; what the analysis observes is the current text, not a permanent property of international education. Second, the named qualities themselves do not divide as cleanly as the descriptors. Four IB attributes are agentive nouns (inquirers, thinkers, communicators, risk-takers) and six are adjectives; TYMM's ten are Turkish adjectives and participles, of which sorgulayıcı and üretken are agentive in form. The contrast between a grammar of doing and a grammar of being is real at the level of the descriptors and only partial at the level of the labels. It is reported here at the level where the evidence supports it.
+## 4.2 A collective with a name
 
-## 4.3 The collective, named and unnamed
+Both profiles make the student answerable to something larger. They differ in whether that something can be pointed at.
 
-Both profiles make the learner answerable to something beyond the self. They differ in whether that something has a name.
+The Maarif Model names it, and concentrates the naming in one characteristic. *Vatansever*, patriotic, is elaborated through seven components, and between them they invoke the flag and national symbols, the Turkish language, the homeland, the nation, the state, the country's interests, national culture, spiritual values and the generations to come.
 
-TYMM names it repeatedly, and concentrates the naming in one characteristic. *Vatansever* (patriotic) is specified by seven components which between them invoke the flag, national symbols, the Turkish language, the homeland, the nation, the state, the country's interests, national culture, spiritual values, and future generations. "Devletin millet için anlamını bilir" (knows what the state means for the nation). "Millî çıkarları ön planda tutar" (holds national interests foremost). The referents are proper and bounded: this flag, this language, this state.
+> **Gelişmiş bir devlet bilincine sahip olan.** Devletin millet için anlamını bilir.
+> *(Possessing a developed consciousness of the state. Knows what the state means for the nation.)*
+>
+> **Millî kültürüne ve manevi değerlere bağlı.** Ülkesinin kültürel ve manevi değerlerine bağlıdır. Gelenekleri ve tarihine saygı gösterir, bu değerleri gelecek nesillere aktarmaya önem verir.
+> *(Attached to national culture and spiritual values. Is attached to the cultural and spiritual values of their country. Shows respect for its traditions and history, and gives importance to transmitting these values to future generations.)*
 
-The naming is not confined to vatansever. *Üretken* (productive) specifies that the learner "dreams and sets goals about their country and their own future": the country precedes the self in the sentence. The Erdem-Değer-Eylem Çerçevesi states its ultimate objective as reaching "Huzurlu Aile ve Toplum" (a peaceful family and society) and "Yaşanabilir Çevrede Huzurlu İnsan" (a peaceful person in a liveable environment), and organises its twenty values into clusters named for the person, the family and social circle, and the physical environment. The collective is not a background assumption; it is the architecture.
+These referents are proper and bounded. Not a state but the state; not a language but Turkish.
 
-The IB names nothing. Its collectives are "people everywhere", "a global community", "the world in which we live", "the lives of others and the world around us", "issues and ideas that have local and global significance". Across all ten descriptors no polity, language, territory, or tradition is identified. The single concrete requirement anywhere in the set is linguistic and it is a requirement of plurality rather than of a particular language: communicators "express ourselves confidently and creatively in more than one language".
+Nor is the naming confined to *vatansever*. *Üretken*, productive, specifies that the student "ülkesi ve kendi geleceğiyle ilgili hayal kurar" — dreams about their country and their own future, in that order. The values framework states its destination as *Huzurlu Aile ve Toplum* and *Yaşanabilir Çevrede Huzurlu İnsan*, a peaceful family and society and a peaceful person in a liveable environment, and it sorts its twenty values into clusters named for the person, the family and social circle, and the physical environment. The collective is not an assumption running underneath the document. It is the frame the document is built on.
 
-This produces the sharpest single contrast in the corpus, and it sits on the language axis. TYMM's named language component is *Türkçeye sahip çıkan*, literally one who takes ownership of, or safeguards, Turkish: "Türkçeye hâkimdir; güzel yazar, güzel konuşur ve dilini geliştirir." The verb *sahip çıkmak* frames the relation as custodial. The IB's language clause requires more than one language and specifies none. One profile asks the learner to keep a language; the other asks the learner to exceed one. Neither is reducible to a competence claim, and the difference is not a matter of emphasis: each is doing something the other does not do at all.
+The IB names nothing. Its collectives are "people everywhere", "a global community", "the world in which we live", "the lives of others and the world around us", "issues and ideas that have local and global significance". Across ten descriptors no polity, no territory, no tradition and no language is identified.
 
-It would be a misreading to convert this into a parochial-versus-cosmopolitan verdict, and the texts resist it. TYMM's *ahlaklı* requires respect for "farklı inançlara" (different beliefs) and for "diğer canlılara" (other living beings), and its *dostluk* value includes building bonds with other cultures and participating in international projects. The IB's unnamed universality is itself a positioned claim, and the absence of a named collective does not make the profile placeless. What the evidence supports is narrower and more useful: the two profiles differ in whether the object of the learner's obligation is specified, and specification has consequences that generality does not, and vice versa.
+The single concrete demand anywhere in the IB set is linguistic, and it is a demand for plurality rather than for anything in particular:
 
-## 4.4 Autonomy, with and without a proviso
+> **Communicators.** We express ourselves confidently and creatively in more than one language and in many ways.
 
-The most consequential finding is a recurring syntactic pattern rather than a lexical one, and it is visible only when the component definitions are read closely.
+Set that against the Maarif Model's named language component:
 
-Where TYMM grants the learner independence of thought, taste, or affiliation, the grant is regularly qualified by a clause of conformity. Three instances from the profile itself:
+> **Türkçeye sahip çıkan.** Türkçeye hâkimdir; güzel yazar, güzel konuşur ve dilini geliştirir.
+> *(Taking ownership of Turkish. Has command of Turkish; writes well, speaks well, and develops their language.)*
 
-*Bilge / Bağımsız ve özgür düşünen* (independent and free-thinking): the learner "farklı görüşleri eleştirip analiz eder, düşünce ve inançlarını özgürce ifade etme becerisi kazanırken **kendi değer ve inançlarıyla uyumlu bir şekilde** düşünerek karar vermeyi öğrenir" — learns to decide by thinking *in a manner consistent with their own values and beliefs*.
+*Sahip çıkmak* is a verb of custody. It is what you do for something that is yours and could be lost — a person defends a friend's reputation with it, a family keeps hold of land with it. One profile asks the student to hold on to a language. The other asks the student to exceed one. These are not different weightings of a shared commitment to language; each is doing something the other does not attempt.
 
-*Estetik / Güzelliğe duyarlı* (sensitive to beauty): the learner "**ahlaki değerlerle uyumlu bir şekilde** güzellik anlayışını oluşturur" — forms their conception of beauty *in a manner consistent with moral values*.
+It would be a poor reading to convert this into parochialism against openness, and the texts do not permit it. The Maarif Model's *ahlaklı* requires respect for "farklı inançlara", different beliefs, and for other living things; its *dostluk* value asks students to build ties across cultures and take part in international projects. The IB's unnamed universality is a position of its own, not the absence of one — an "everywhere" that has no address is still somewhere.
 
-And in the values framework, under *dostluk*: "Farklı milletlerden insanlarla iletişim kurarken **millî kimliğini ve kültürünü muhafaza eder**" — while communicating with people of other nations, *preserves their national identity and culture*.
+What the evidence supports is narrower and more useful than either caricature. One profile specifies the object of the student's obligation and the other does not, and specification has consequences. A named collective can be argued with, because what it asks for is on the page. An unnamed one is harder to contest and correspondingly harder to hold to account.
 
-The construction is the same each time: a capacity is granted, then bounded by an *uyumlu* (consistent with) or *muhafaza* (preserve) clause naming what the exercise of that capacity must not disturb.
+## 4.3 The clause of return
 
-The IB's corresponding descriptors carry no such clause. Open-minded: "We critically appreciate our own cultures and personal histories, as well as the values and traditions of others. We seek and evaluate a range of points of view, and we are willing to grow from the experience." The learner's own culture is included in what is critically appreciated rather than exempted from it, and the stated outcome is growth from the encounter, with nothing held constant. Reflective makes the same move inward: "We work to understand our strengths and weaknesses."
+The most consequential thing we found is not a word but a construction, and it recurs.
 
-Read together, the two texts encode different theories of what happens when a learner meets a difference. In TYMM, the encounter is real and its result is bounded: one engages, and one returns intact. In the IB profile, the encounter is expected to change the learner, and no part of the learner is marked off in advance as not subject to change.
+Where the Maarif Model grants the student independence of thought, of taste, or of association, the grant arrives with a clause attached. *Bilge*, the wise student, includes this:
 
-This is where the study's directed codebook earns its keep. Read through *aksiyolojik olgunluk* (axiological maturity), TYMM's own term, the proviso is not a restriction bolted onto autonomy but the substance of the construct: the framework defines axiological maturity as the maturing of ethical and aesthetic judgement, and describes it as "öğrenci profilinin birleştirici ve tamamlayıcı boyutu" (the unifying and completing dimension of the student profile). A judgement that had no anchor would not, in the model's own terms, be mature. Coded from outside, through a lens that treats unconditioned openness as the norm, the same clauses read as constraints on a freedom otherwise granted. Both readings are available from the text. Reporting only the second would be the failure mode Takayama, Sriprakash and Connell (2017) describe, in which a non-Western framework is legible only as a deviation.
+> **Bağımsız ve özgür düşünen.** Kendi düşünce süreçlerini geliştirir. Farklı görüşleri eleştirip analiz eder, düşünce ve inançlarını özgürce ifade etme becerisi kazanırken **kendi değer ve inançlarıyla uyumlu bir şekilde** düşünerek karar vermeyi öğrenir.
+> *(Independent and free-thinking. Develops their own thought processes. Criticises and analyses different views, and while acquiring the ability to express their thoughts and beliefs freely, learns to decide by thinking in a manner consistent with their own values and beliefs.)*
 
-The finding, stated at the level the evidence supports: TYMM attaches a conformity clause to its grants of autonomy and the IB does not, and the two documents therefore differ on whether formation has a fixed point.
+*Estetik*, the aesthetic student, includes this:
 
-## 4.5 What each profile has no room for
+> **Güzelliğe duyarlı.** Güzel bakmayı bilir. Estetik değerlere duyarlıdır ve güzellikleri takdir eder. **Ahlaki değerlerle uyumlu bir şekilde** güzellik anlayışını oluşturur.
+> *(Sensitive to beauty. Knows how to look well. Is sensitive to aesthetic values and appreciates beautiful things. Forms their conception of beauty in a manner consistent with moral values.)*
 
-Mapping the ten against the ten produces correspondences at seven positions and leaves six qualities without a counterpart. Table 3 sets out the mapping; the residue is more informative than the matches.
+And the *dostluk* value, on contact across borders:
 
-**Table 3. Correspondence between the two profiles**
+> Farklı milletlerden insanlarla iletişim kurarken **millî kimliğini ve kültürünü muhafaza eder**.
+> *(While communicating with people of other nations, preserves their national identity and culture.)*
 
-| IB attribute | TYMM counterpart | Status |
+The shape is the same each time. A capacity is opened, and then a clause names what the exercise of it must leave undisturbed. *Uyumlu*, consistent with. *Muhafaza*, preserve. The student goes out and the student comes back.
+
+The IB's parallel descriptors have no such clause, and its open-minded attribute does something close to the opposite:
+
+> **Open-minded.** We critically appreciate our own cultures and personal histories, as well as the values and traditions of others. We seek and evaluate a range of points of view, and we are willing to grow from the experience.
+
+The student's own culture is not the fixed point from which others are surveyed. It is included in what is critically appreciated, on the same side of the sentence as everyone else's, and the stated result of the encounter is growth, with nothing marked off in advance as exempt. *Reflective* turns the same instrument inward: "We work to understand our strengths and weaknesses."
+
+The two documents hold different theories of what happens when a student meets something unfamiliar. In one, the meeting is real and its outcome is bounded: you engage, and you return with yourself intact. In the other, the meeting is expected to change you, and no part of you is protected from it in advance.
+
+There is a reading of the Turkish clause on which it is not a restriction at all, and the model supplies it. *Aksiyolojik olgunluk*, axiological maturity, is defined as the ripening of ethical and aesthetic judgement together, and named as the dimension that unifies and completes the profile. On that construal, judgement without an anchor is not free judgement but unformed judgement, and the clause states what maturity consists of rather than what it may not do. Read from the outside, through a framework in which unconditioned openness is the standard, the same words look like a limit placed on a freedom just granted.
+
+Both readings survive contact with the text, and we report both, because the disagreement between them is the thing we found. The two profiles do not differ over how much freedom to give. They differ over whether formation has a fixed point.
+
+## 4.4 What neither profile has room for
+
+Setting the ten against the ten produces workable correspondences at seven positions and leaves six qualities with no partner. The residue is where the reading gets interesting.
+
+**Table 1. Correspondences and gaps**
+
+| IB attribute | Maarif Model counterpart | |
 |---|---|---|
-| Inquirers | Sorgulayıcı (meraklı, araştırmacı) | Close |
-| Thinkers | Sorgulayıcı (eleştirel düşünen, problem çözen) | Close |
-| Knowledgeable | Bilge (ilme ulaşan, bilgilerini paylaşan) | Partial — bilge exceeds knowledge, see below |
-| Principled | Ahlaklı; İradeli (ilkeli) | Close |
-| Caring | Merhametli | Close |
-| Risk-takers | Cesaretli (risk alan, girişimci) | Close |
-| Balanced | Sağlıklı | Partial — different axes, see below |
-| Communicators | Bilge (belagat sahibi); Üretken (iletişime açık) | Partial — no multilingual requirement |
-| Open-minded | — | No unconditioned counterpart (§4.4) |
-| Reflective | — | Absent from the profile |
-| — | Vatansever | No counterpart |
-| — | Estetik | No counterpart |
-| — | İradeli (as will and persistence) | No counterpart |
-| — | Üretken (as productivity toward a national future) | No counterpart |
+| Inquirers | Sorgulayıcı (meraklı, araştırmacı) | close |
+| Thinkers | Sorgulayıcı (eleştirel düşünen, problem çözen) | close |
+| Principled | Ahlaklı; İradeli (ilkeli) | close |
+| Caring | Merhametli | close |
+| Risk-takers | Cesaretli (risk alan, girişimci) | close |
+| Knowledgeable | Bilge | partial |
+| Balanced | Sağlıklı | partial |
+| Communicators | Bilge (belagat sahibi); Üretken | partial: no multilingual demand |
+| Open-minded | — | no unconditioned counterpart |
+| Reflective | — | absent from the profile |
+| — | Vatansever | no counterpart |
+| — | Estetik | no counterpart |
+| — | İradeli, as will and persistence | no counterpart |
+| — | Üretken, as production toward a national future | no counterpart |
 
-Four observations follow.
+**Balance is struck on different axes.** The IB's *balanced* names three: "intellectual, physical, and emotional". The Maarif Model's ontological wholeness names *ruh* and *beden*, and defines *ruh* as intellectual, **moral** and emotional. The two triads share two terms and part on the third. The physical is not missing from the Turkish framework, which gives it a whole characteristic to itself in *sağlıklı*, but it sits outside the balance construct, and where the IB's third term is the body, the Maarif Model's is conscience. And *sağlıklı* closes on something the IB set does not contain at any point:
 
-**Balance is struck on different axes.** The IB's *balanced* names three: "intellectual, physical, and emotional". TYMM's ontological wholeness names *ruh* (spirit) and *beden* (body), and defines *ruh* as the sum of "entelektüel, ahlaki ve duygusal" faculties. The two triads share the intellectual and the emotional and diverge on the third: the IB's is physical, TYMM's is moral. The physical is not missing from TYMM, which gives it a characteristic of its own in *sağlıklı*, but it sits outside the balance construct. And *sağlıklı* closes with a component the IB set has nothing to correspond to: *manevi sağlığını koruyan*, one who protects their spiritual health, "manen gelişmiş hayat tarzını benimser". A spiritual dimension is constitutive of the person in one profile and unmentioned in the other.
+> **Manevi sağlığını koruyan.** İçsel huzur ve dengesini sürdürmek için manevi değerlere önem verir, ruhsal gelişimine özen gösterir ve manen gelişmiş hayat tarzını benimser.
+> *(Protecting their spiritual health. Gives importance to spiritual values in order to sustain inner peace and balance, attends to their spiritual development, and adopts a spiritually developed way of life.)*
 
-**Reflection is present in the model and absent from the profile.** TYMM has a well-developed apparatus of reflection: *yansıtma* is a named bütünleşik beceri, *kendine uyarlama (öz yansıtma)* is one of three benlik becerileri, and teacher reflection has its own section. None of it appears among the ten profile characteristics. The IB, by contrast, spends one of its ten on *reflective*. Reflection is thus not a difference in what the two systems value but in what each considers definitional of the educated person. This distinction matters for the argument of §4.1: the comparison is between profiles, and a capacity a system holds elsewhere is not a capacity the profile claims.
+A spiritual dimension is constitutive of the person in one profile and unmentioned in the other.
 
-**The aesthetic is definitional for one and unnamed for the other.** *Estetik* is one of TYMM's ten, with six components running from *güzelliğe duyarlı* to *sanatsal yeteneklerini bilen ve kullanan*, and *estetik* appears again among the twenty values and again inside *bilge* as *estetik duyarlılık sahibi*. It is one of the most densely repeated commitments in the document. The IB's ten contain no aesthetic attribute and its descriptors contain no aesthetic vocabulary.
+**Reflection is in the model but not in the profile.** The Maarif Model has a developed apparatus for it: *yansıtma* is a named skill, *kendine uyarlama* is one of three self-related social-emotional skills, and teacher reflection has a section of its own. None of it reaches the ten characteristics. The IB spends one of its ten on *reflective*. The difference is not that one system values reflection and the other does not; it is that only one treats it as part of what makes a person educated.
 
-**Wisdom is not knowledge.** *Bilge* is glossed by the framework as the union of knowledge and virtue: "Bilgi ve erdemin bir araya gelmesiyle gerçekleşen olgunluk ile insanın öz varlığını tanımasıyla oluşan… bilgelik." The IB's *knowledgeable* is glossed by disciplinary range and significance: "conceptual understanding, exploring knowledge across a range of disciplines… issues and ideas that have local and global significance." The mapping in Table 3 is therefore a structural adjacency, not an equivalence. One profile's epistemic ideal terminates in a state of the person; the other's terminates in a relation to a field.
+**Wisdom is not knowledge.** The IB's *knowledgeable* is glossed by reach and relevance: "conceptual understanding, exploring knowledge across a range of disciplines", "issues and ideas that have local and global significance". *Bilge* is glossed by what knowledge becomes when it is joined to something else: "Bilgi ve erdemin bir araya gelmesiyle gerçekleşen olgunluk." The correspondence in Table 1 is a structural adjacency. One profile's epistemic ideal ends in a relation to a field; the other's ends in a state of the person.
 
-## 4.6 Summary
+## 4.5 Two portraits, and who cannot sit for them
 
-The two profiles agree on more than their rhetoric suggests and differ in ways their shared format conceals. They converge on inquiry, critical thought, ethical conduct, compassion and courage, and both refuse a purely academic account of the educated person. They diverge on four things the evidence identifies precisely: who is given the voice in the text, whether the collective the learner serves is named, whether grants of autonomy carry a conformity clause, and which dimensions of the person are treated as constitutive.
+Taken together, the features above assemble two figures.
 
-These are not points on a single axis with the local at one end and the global at the other, and the study's own asymmetry should be stated plainly rather than resolved. TYMM's profile is more specified because it governs one system; the IB's is less specified because it must travel. Reading the first as parochial and the second as open mistakes a difference in institutional situation for a difference in educational ambition. What can be said on the evidence is that the two documents answer the question of what a person is for in ways that are not interchangeable, and that the answer each gives is visible in its grammar before it is visible in its content.
+The Maarif Model's student is described rather than addressed, is answerable to a collective named down to its symbols, and is granted freedoms on the understanding that exercising them will not disturb what they already hold. Set beside *zamansal bütünlük*, which extends the student's relevant past to "milletçe sahip olunan ortak bilinç, kültür ve değerler", the figure that emerges is an **heir**: someone who has received something, who is being formed so as to be equal to it, and who is expected not to lose it. The document says as much in its opening words — *Köklerden Geleceğe*, from the roots to the future.
+
+The IB's student is addressed rather than described, belongs to a collective with no location, and is asked to appraise their own inheritance on the same terms as everyone else's. This figure is a **joiner**: already inside a community by the act of reading, holding nothing back from revision, at home in more than one language and therefore fully at home in none of them in particular.
+
+Neither figure is a deficient version of the other, and it is worth insisting on this, because the temptation to score them is strong and the scoring is where comparative work on national and transnational frameworks usually goes wrong. The heir is not a failed cosmopolitan. The joiner is not a rootless one. They are answers to different questions about what education is for.
+
+But each position has an outside, and that is the question worth pressing.
+
+Who cannot be the heir? The clause reads *kendi değer ve inançlarıyla uyumlu*, consistent with their **own** values and beliefs, and taken by itself that is neutral: it would accommodate any student's commitments whatever they were. It is not taken by itself. It sits in a document whose temporal construct furnishes the student's past with values "held as a nation", whose most densely specified characteristic names one flag and one language, and whose values framework grounds itself in "kendi medeniyet dünyamızın referansları olan millî ve manevi değerlerimiz" — our national and spiritual values, the references of our own civilisational world. By the time the student reaches the clause, their own has been supplied. A student whose commitments run elsewhere — who belongs to a minority tradition, speaks another first language, or holds beliefs the document has not anticipated — is offered a position that assumes their inheritance points the same way as everyone else's. Şen's (2020) observation that Turkish reform discourse addresses the population as homogeneous is visible here at the level of a single subordinate clause.
+
+Who cannot be the joiner? A student for whom something is not up for revision. The IB asks that one's own culture be critically appreciated and that one be willing to grow from the encounter; a student who holds part of their inheritance as settled has no place to stand in that sentence. And the multilingual demand is not only symbolic. "More than one language" is a material threshold, and Bunnell's (2010) account of the IB's constituency indicates who tends to clear it. The joiner position is open to anyone in principle and, in practice, is easier to occupy from some households than others.
+
+So both profiles are narrower than they look, and they are narrow in opposite directions. One has trouble with the student who differs from the collective it names. The other has trouble with the student who will not put their collective at risk.
